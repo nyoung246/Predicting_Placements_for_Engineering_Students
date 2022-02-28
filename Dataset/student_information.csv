@@ -1,0 +1,2967 @@
+﻿ID,Age,Gender,Stream
+1,22,Male,Electronics And Communication
+2,21,Female,Computer Science
+3,22,Female,Information Technology
+4,21,Male,Information Technology
+5,22,Male,Mechanical
+6,22,Male,Electronics And Communication
+7,21,Male,Computer Science
+8,21,Male,Information Technology
+9,21,Male,Computer Science
+10,21,Female,Computer Science
+11,22,Male,Computer Science
+12,22,Female,Electrical
+13,21,Female,Computer Science
+14,21,Male,Computer Science
+15,21,Female,Electronics And Communication
+16,22,Male,Mechanical
+17,22,Female,Computer Science
+18,21,Male,Civil
+19,21,Male,Computer Science
+20,22,Male,Computer Science
+21,22,Male,Civil
+22,21,Male,Computer Science
+23,22,Male,Civil
+24,22,Male,Electronics And Communication
+25,22,Male,Electronics And Communication
+26,21,Male,Electrical
+27,22,Male,Electrical
+28,22,Male,Information Technology
+29,22,Male,Information Technology
+30,21,Male,Information Technology
+31,22,Male,Mechanical
+32,21,Male,Electrical
+33,21,Female,Civil
+34,21,Male,Electrical
+35,21,Male,Computer Science
+36,21,Male,Information Technology
+37,22,Male,Civil
+38,22,Male,Computer Science
+39,22,Male,Information Technology
+40,22,Male,Electronics And Communication
+41,22,Male,Electrical
+42,22,Male,Civil
+43,21,Male,Electrical
+44,21,Male,Electrical
+45,22,Female,Information Technology
+46,21,Female,Electronics And Communication
+47,22,Male,Computer Science
+48,21,Male,Electronics And Communication
+49,21,Male,Information Technology
+50,21,Female,Electronics And Communication
+51,22,Male,Electronics And Communication
+52,21,Male,Electrical
+53,21,Female,Computer Science
+54,21,Male,Electrical
+55,21,Female,Electronics And Communication
+56,21,Male,Computer Science
+57,21,Male,Electronics And Communication
+58,21,Male,Civil
+59,21,Male,Electronics And Communication
+60,21,Female,Electrical
+61,21,Male,Computer Science
+62,22,Male,Computer Science
+63,21,Male,Information Technology
+64,21,Male,Information Technology
+65,21,Male,Information Technology
+66,22,Male,Mechanical
+67,22,Male,Computer Science
+68,21,Male,Information Technology
+69,22,Male,Computer Science
+70,21,Male,Mechanical
+71,22,Male,Electrical
+72,22,Male,Information Technology
+73,22,Male,Computer Science
+74,21,Male,Information Technology
+75,22,Male,Information Technology
+76,21,Male,Civil
+77,21,Male,Mechanical
+78,22,Male,Mechanical
+79,22,Male,Information Technology
+80,21,Male,Computer Science
+81,21,Male,Civil
+82,21,Male,Computer Science
+83,22,Male,Mechanical
+84,21,Male,Information Technology
+85,21,Male,Mechanical
+86,21,Male,Electronics And Communication
+87,21,Male,Computer Science
+88,21,Male,Computer Science
+89,22,Female,Civil
+90,22,Male,Mechanical
+91,21,Male,Civil
+92,22,Male,Information Technology
+93,21,Male,Electrical
+94,22,Female,Information Technology
+95,22,Male,Electronics And Communication
+96,22,Male,Computer Science
+97,21,Male,Computer Science
+98,22,Male,Information Technology
+99,22,Female,Information Technology
+100,21,Male,Mechanical
+101,23,Male,Computer Science
+102,23,Male,Civil
+103,23,Male,Mechanical
+104,24,Male,Information Technology
+105,23,Male,Electrical
+106,23,Male,Information Technology
+107,24,Female,Information Technology
+108,24,Male,Information Technology
+109,24,Male,Civil
+110,23,Male,Information Technology
+111,23,Male,Information Technology
+112,24,Male,Electronics And Communication
+113,24,Male,Electrical
+114,23,Male,Information Technology
+115,24,Male,Computer Science
+116,23,Male,Electrical
+117,23,Male,Information Technology
+118,23,Male,Information Technology
+119,24,Male,Information Technology
+120,23,Male,Mechanical
+121,23,Female,Information Technology
+122,23,Male,Electronics And Communication
+123,23,Male,Information Technology
+124,23,Male,Information Technology
+125,23,Male,Mechanical
+126,24,Male,Information Technology
+127,24,Male,Information Technology
+128,24,Male,Computer Science
+129,24,Male,Electronics And Communication
+130,24,Male,Information Technology
+131,23,Male,Mechanical
+132,23,Male,Computer Science
+133,23,Female,Mechanical
+134,24,Male,Computer Science
+135,23,Male,Mechanical
+136,24,Male,Computer Science
+137,24,Male,Mechanical
+138,24,Male,Information Technology
+139,23,Male,Electrical
+140,24,Male,Electrical
+141,23,Male,Computer Science
+142,23,Male,Electronics And Communication
+143,24,Male,Information Technology
+144,24,Male,Computer Science
+145,24,Male,Computer Science
+146,23,Male,Civil
+147,24,Male,Information Technology
+148,23,Male,Mechanical
+149,23,Male,Electrical
+150,24,Male,Computer Science
+151,23,Male,Electrical
+152,24,Female,Information Technology
+153,23,Male,Computer Science
+154,23,Female,Electronics And Communication
+155,24,Male,Civil
+156,24,Male,Electronics And Communication
+157,23,Male,Information Technology
+158,24,Male,Computer Science
+159,23,Male,Computer Science
+160,24,Male,Computer Science
+161,22,Male,Electronics And Communication
+162,22,Male,Mechanical
+163,22,Male,Computer Science
+164,21,Male,Computer Science
+165,21,Male,Civil
+166,21,Male,Computer Science
+167,21,Male,Electrical
+168,21,Female,Information Technology
+169,22,Male,Computer Science
+170,22,Male,Computer Science
+171,21,Male,Civil
+172,21,Female,Information Technology
+173,21,Male,Information Technology
+174,22,Male,Civil
+175,22,Male,Civil
+176,21,Male,Information Technology
+177,21,Male,Electronics And Communication
+178,22,Female,Information Technology
+179,22,Male,Electrical
+180,21,Female,Mechanical
+181,22,Female,Information Technology
+182,22,Male,Computer Science
+183,21,Male,Electronics And Communication
+184,22,Male,Civil
+185,21,Male,Electrical
+186,22,Male,Civil
+187,21,Female,Computer Science
+188,21,Male,Computer Science
+189,22,Female,Electronics And Communication
+190,21,Female,Information Technology
+191,22,Male,Computer Science
+192,22,Male,Computer Science
+193,21,Male,Mechanical
+194,21,Male,Computer Science
+195,21,Male,Information Technology
+196,22,Female,Computer Science
+197,21,Male,Electronics And Communication
+198,21,Male,Information Technology
+199,22,Female,Computer Science
+200,21,Male,Computer Science
+201,21,Male,Computer Science
+202,22,Male,Computer Science
+203,21,Female,Information Technology
+204,21,Male,Electronics And Communication
+205,21,Female,Computer Science
+206,21,Male,Mechanical
+207,22,Male,Mechanical
+208,22,Male,Information Technology
+209,21,Female,Electrical
+210,21,Male,Mechanical
+211,21,Male,Computer Science
+212,21,Male,Information Technology
+213,22,Male,Information Technology
+214,22,Male,Information Technology
+215,21,Male,Electrical
+216,21,Female,Civil
+217,21,Male,Computer Science
+218,21,Male,Civil
+219,22,Male,Electrical
+220,21,Male,Electronics And Communication
+221,22,Male,Electrical
+222,22,Male,Computer Science
+223,21,Male,Mechanical
+224,22,Male,Computer Science
+225,22,Male,Civil
+226,21,Male,Civil
+227,21,Female,Computer Science
+228,21,Male,Computer Science
+229,21,Female,Mechanical
+230,22,Male,Mechanical
+231,22,Male,Electronics And Communication
+232,22,Male,Computer Science
+233,21,Female,Information Technology
+234,22,Male,Information Technology
+235,21,Male,Information Technology
+236,22,Male,Computer Science
+237,22,Male,Computer Science
+238,21,Female,Information Technology
+239,21,Female,Mechanical
+240,21,Female,Computer Science
+241,22,Female,Information Technology
+242,22,Female,Computer Science
+243,21,Male,Information Technology
+244,22,Male,Civil
+245,21,Male,Electrical
+246,21,Male,Electronics And Communication
+247,21,Male,Mechanical
+248,22,Male,Civil
+249,22,Female,Electrical
+250,22,Male,Computer Science
+251,21,Male,Computer Science
+252,21,Female,Information Technology
+253,22,Male,Electronics And Communication
+254,22,Male,Civil
+255,22,Male,Information Technology
+256,22,Female,Computer Science
+257,22,Male,Mechanical
+258,21,Male,Electrical
+259,22,Male,Electronics And Communication
+260,22,Male,Information Technology
+261,22,Female,Computer Science
+262,21,Male,Information Technology
+263,21,Male,Electrical
+264,22,Male,Mechanical
+265,21,Male,Civil
+266,21,Male,Information Technology
+267,21,Female,Information Technology
+268,22,Male,Electronics And Communication
+269,21,Male,Civil
+270,22,Male,Information Technology
+271,21,Male,Electrical
+272,22,Male,Information Technology
+273,21,Male,Electronics And Communication
+274,22,Male,Computer Science
+275,21,Male,Electronics And Communication
+276,22,Male,Mechanical
+277,21,Male,Civil
+278,21,Female,Civil
+279,21,Male,Computer Science
+280,21,Male,Information Technology
+281,21,Female,Electronics And Communication
+282,22,Female,Mechanical
+283,21,Male,Mechanical
+284,21,Male,Civil
+285,22,Male,Electronics And Communication
+286,21,Male,Electronics And Communication
+287,21,Male,Mechanical
+288,22,Male,Computer Science
+289,21,Male,Civil
+290,22,Male,Information Technology
+291,22,Male,Computer Science
+292,22,Male,Civil
+293,22,Female,Computer Science
+294,22,Male,Electronics And Communication
+295,21,Male,Civil
+296,21,Male,Civil
+297,22,Male,Computer Science
+298,22,Male,Computer Science
+299,22,Male,Electronics And Communication
+300,21,Male,Information Technology
+301,22,Male,Civil
+302,22,Male,Civil
+303,21,Male,Electronics And Communication
+304,21,Male,Information Technology
+305,22,Male,Electronics And Communication
+306,22,Male,Computer Science
+307,22,Male,Electrical
+308,22,Male,Information Technology
+309,22,Female,Computer Science
+310,21,Male,Electrical
+311,21,Male,Computer Science
+312,22,Male,Information Technology
+313,22,Female,Computer Science
+314,22,Male,Civil
+315,22,Male,Mechanical
+316,22,Male,Civil
+317,22,Female,Information Technology
+318,22,Male,Electrical
+319,21,Female,Computer Science
+320,21,Male,Computer Science
+321,21,Male,Computer Science
+322,21,Male,Mechanical
+323,21,Male,Computer Science
+324,22,Male,Civil
+325,21,Male,Mechanical
+326,22,Male,Computer Science
+327,21,Male,Computer Science
+328,21,Male,Electronics And Communication
+329,22,Male,Electronics And Communication
+330,22,Male,Information Technology
+331,21,Male,Computer Science
+332,22,Female,Electrical
+333,22,Male,Electronics And Communication
+334,21,Male,Information Technology
+335,22,Male,Mechanical
+336,22,Male,Mechanical
+337,21,Male,Electronics And Communication
+338,21,Male,Information Technology
+339,22,Female,Computer Science
+340,22,Male,Electronics And Communication
+341,21,Male,Electronics And Communication
+342,22,Male,Information Technology
+343,21,Male,Information Technology
+344,22,Female,Electrical
+345,22,Male,Information Technology
+346,22,Male,Mechanical
+347,21,Male,Mechanical
+348,21,Male,Electronics And Communication
+349,21,Male,Civil
+350,22,Female,Computer Science
+351,22,Female,Information Technology
+352,21,Male,Mechanical
+353,21,Male,Mechanical
+354,21,Male,Electronics And Communication
+355,22,Male,Computer Science
+356,22,Male,Electrical
+357,21,Male,Information Technology
+358,22,Male,Electrical
+359,21,Male,Electronics And Communication
+360,22,Male,Mechanical
+361,22,Male,Electronics And Communication
+362,21,Male,Computer Science
+363,22,Male,Electronics And Communication
+364,21,Male,Computer Science
+365,21,Male,Information Technology
+366,22,Male,Electronics And Communication
+367,22,Male,Computer Science
+368,21,Male,Computer Science
+369,21,Female,Electrical
+370,21,Male,Information Technology
+371,22,Male,Computer Science
+372,21,Female,Computer Science
+373,22,Male,Information Technology
+374,22,Male,Information Technology
+375,22,Male,Civil
+376,22,Male,Mechanical
+377,21,Male,Mechanical
+378,21,Female,Information Technology
+379,21,Male,Mechanical
+380,22,Male,Computer Science
+381,21,Male,Computer Science
+382,22,Male,Information Technology
+383,21,Male,Computer Science
+384,21,Male,Information Technology
+385,22,Female,Electronics And Communication
+386,21,Male,Information Technology
+387,21,Male,Computer Science
+388,22,Male,Mechanical
+389,22,Female,Electronics And Communication
+390,22,Female,Information Technology
+391,22,Male,Civil
+392,22,Male,Mechanical
+393,21,Male,Electronics And Communication
+394,22,Male,Computer Science
+395,21,Male,Mechanical
+396,21,Male,Information Technology
+397,21,Male,Electronics And Communication
+398,21,Male,Electronics And Communication
+399,21,Female,Electronics And Communication
+400,21,Male,Information Technology
+401,22,Male,Electrical
+402,22,Male,Mechanical
+403,21,Male,Electronics And Communication
+404,21,Female,Information Technology
+405,21,Female,Computer Science
+406,22,Male,Information Technology
+407,21,Male,Mechanical
+408,21,Male,Information Technology
+409,21,Male,Computer Science
+410,22,Male,Electrical
+411,21,Male,Information Technology
+412,22,Male,Electronics And Communication
+413,21,Male,Electrical
+414,21,Male,Electronics And Communication
+415,22,Male,Computer Science
+416,22,Male,Mechanical
+417,22,Male,Computer Science
+418,21,Male,Electrical
+419,22,Male,Civil
+420,22,Male,Information Technology
+421,21,Male,Computer Science
+422,22,Male,Electrical
+423,22,Male,Computer Science
+424,21,Male,Computer Science
+425,22,Male,Mechanical
+426,21,Male,Electrical
+427,22,Male,Mechanical
+428,21,Male,Electrical
+429,21,Female,Computer Science
+430,21,Male,Computer Science
+431,21,Female,Electrical
+432,22,Female,Civil
+433,21,Male,Civil
+434,21,Male,Information Technology
+435,21,Male,Computer Science
+436,21,Male,Mechanical
+437,21,Male,Civil
+438,21,Female,Information Technology
+439,22,Male,Civil
+440,22,Male,Computer Science
+441,21,Male,Electrical
+442,21,Male,Electrical
+443,22,Male,Electronics And Communication
+444,21,Male,Computer Science
+445,21,Male,Computer Science
+446,21,Male,Civil
+447,22,Male,Information Technology
+448,21,Male,Electronics And Communication
+449,28,Male,Civil
+450,21,Male,Computer Science
+451,22,Male,Electronics And Communication
+452,21,Male,Information Technology
+453,22,Male,Mechanical
+454,21,Male,Mechanical
+455,21,Male,Information Technology
+456,22,Female,Mechanical
+457,22,Male,Electronics And Communication
+458,21,Male,Electrical
+459,21,Male,Mechanical
+460,22,Male,Mechanical
+461,22,Male,Electronics And Communication
+462,22,Male,Computer Science
+463,21,Male,Computer Science
+464,22,Male,Computer Science
+465,22,Male,Information Technology
+466,21,Male,Electronics And Communication
+467,22,Male,Computer Science
+468,21,Male,Civil
+469,22,Female,Information Technology
+470,21,Male,Information Technology
+471,21,Male,Mechanical
+472,22,Male,Civil
+473,22,Male,Electrical
+474,21,Male,Information Technology
+475,21,Male,Mechanical
+476,22,Male,Mechanical
+477,22,Female,Information Technology
+478,22,Male,Information Technology
+479,21,Male,Computer Science
+480,22,Male,Computer Science
+481,21,Male,Computer Science
+482,21,Female,Information Technology
+483,21,Female,Computer Science
+484,22,Male,Information Technology
+485,21,Male,Electronics And Communication
+486,22,Female,Mechanical
+487,21,Male,Information Technology
+488,22,Male,Electrical
+489,22,Male,Mechanical
+490,22,Male,Civil
+491,22,Male,Information Technology
+492,22,Male,Electronics And Communication
+493,21,Male,Information Technology
+494,22,Male,Electrical
+495,22,Male,Mechanical
+496,21,Male,Civil
+497,22,Male,Electronics And Communication
+498,21,Male,Computer Science
+499,22,Male,Mechanical
+500,22,Male,Mechanical
+501,22,Male,Mechanical
+502,21,Male,Computer Science
+503,22,Male,Computer Science
+504,21,Male,Electrical
+505,22,Male,Civil
+506,21,Male,Information Technology
+507,22,Female,Electronics And Communication
+508,21,Male,Information Technology
+509,21,Male,Computer Science
+510,21,Male,Information Technology
+511,21,Male,Mechanical
+512,22,Male,Mechanical
+513,21,Female,Computer Science
+514,22,Male,Electrical
+515,21,Male,Civil
+516,22,Female,Computer Science
+517,21,Male,Electrical
+518,21,Female,Information Technology
+519,21,Female,Computer Science
+520,21,Male,Computer Science
+521,21,Male,Electronics And Communication
+522,22,Male,Mechanical
+523,22,Male,Electronics And Communication
+524,21,Male,Computer Science
+525,21,Male,Civil
+526,22,Male,Electronics And Communication
+527,22,Male,Electrical
+528,22,Male,Electrical
+529,21,Male,Information Technology
+530,22,Male,Mechanical
+531,21,Male,Civil
+532,22,Male,Mechanical
+533,22,Male,Electronics And Communication
+534,22,Male,Mechanical
+535,22,Female,Mechanical
+536,21,Male,Computer Science
+537,21,Male,Electronics And Communication
+538,21,Male,Mechanical
+539,22,Male,Information Technology
+540,21,Male,Computer Science
+541,22,Male,Civil
+542,22,Male,Electronics And Communication
+543,22,Male,Mechanical
+544,22,Male,Information Technology
+545,22,Male,Computer Science
+546,21,Male,Computer Science
+547,22,Female,Civil
+548,21,Female,Civil
+549,22,Female,Computer Science
+550,21,Male,Mechanical
+551,30,Male,Computer Science
+552,22,Male,Information Technology
+553,21,Male,Information Technology
+554,22,Female,Electronics And Communication
+555,22,Male,Information Technology
+556,22,Male,Civil
+557,22,Male,Electrical
+558,21,Female,Civil
+559,21,Male,Computer Science
+560,22,Male,Electrical
+561,21,Male,Information Technology
+562,21,Male,Computer Science
+563,22,Male,Electrical
+564,22,Male,Electrical
+565,22,Male,Electrical
+566,21,Male,Computer Science
+567,21,Male,Computer Science
+568,21,Male,Computer Science
+569,22,Male,Electrical
+570,22,Male,Computer Science
+571,22,Male,Electronics And Communication
+572,21,Male,Electrical
+573,22,Male,Information Technology
+574,21,Male,Computer Science
+575,22,Female,Information Technology
+576,22,Male,Electronics And Communication
+577,21,Male,Information Technology
+578,21,Male,Civil
+579,22,Male,Electrical
+580,22,Male,Computer Science
+581,21,Male,Information Technology
+582,21,Male,Civil
+583,21,Male,Computer Science
+584,22,Male,Civil
+585,21,Male,Computer Science
+586,22,Female,Electronics And Communication
+587,21,Male,Computer Science
+588,22,Male,Computer Science
+589,21,Male,Computer Science
+590,21,Male,Electronics And Communication
+591,21,Male,Information Technology
+592,21,Male,Electronics And Communication
+593,22,Male,Information Technology
+594,22,Male,Computer Science
+595,21,Male,Electronics And Communication
+596,22,Male,Computer Science
+597,21,Male,Electronics And Communication
+598,22,Female,Information Technology
+599,22,Male,Information Technology
+600,21,Male,Information Technology
+601,21,Male,Computer Science
+602,22,Female,Information Technology
+603,21,Male,Computer Science
+604,21,Male,Information Technology
+605,21,Male,Computer Science
+606,22,Female,Information Technology
+607,22,Male,Computer Science
+608,21,Male,Electrical
+609,21,Male,Information Technology
+610,22,Male,Computer Science
+611,21,Male,Computer Science
+612,21,Male,Civil
+613,22,Male,Electrical
+614,21,Male,Information Technology
+615,21,Male,Electronics And Communication
+616,21,Male,Electrical
+617,21,Male,Electrical
+618,22,Male,Electronics And Communication
+619,22,Male,Mechanical
+620,21,Male,Civil
+621,22,Female,Computer Science
+622,22,Male,Electrical
+623,22,Male,Mechanical
+624,22,Female,Electronics And Communication
+625,22,Female,Electronics And Communication
+626,22,Male,Electronics And Communication
+627,21,Male,Mechanical
+628,22,Male,Mechanical
+629,22,Male,Civil
+630,21,Male,Mechanical
+631,21,Female,Information Technology
+632,21,Male,Electronics And Communication
+633,21,Male,Information Technology
+634,22,Male,Computer Science
+635,22,Male,Information Technology
+636,22,Male,Electrical
+637,22,Male,Electronics And Communication
+638,21,Male,Computer Science
+639,22,Male,Computer Science
+640,21,Female,Mechanical
+641,21,Male,Computer Science
+642,22,Female,Computer Science
+643,21,Male,Mechanical
+644,22,Male,Electronics And Communication
+645,21,Female,Computer Science
+646,22,Male,Electrical
+647,21,Male,Information Technology
+648,21,Female,Information Technology
+649,22,Female,Information Technology
+650,21,Male,Mechanical
+651,22,Male,Mechanical
+652,21,Male,Electronics And Communication
+653,22,Male,Information Technology
+654,22,Male,Civil
+655,21,Male,Electrical
+656,22,Male,Electronics And Communication
+657,22,Female,Information Technology
+658,22,Female,Electrical
+659,21,Male,Mechanical
+660,22,Male,Electronics And Communication
+661,22,Male,Information Technology
+662,22,Male,Computer Science
+663,21,Male,Electronics And Communication
+664,22,Male,Computer Science
+665,22,Male,Information Technology
+666,21,Male,Electronics And Communication
+667,22,Male,Mechanical
+668,22,Male,Computer Science
+669,22,Female,Electrical
+670,21,Male,Civil
+671,22,Male,Civil
+672,22,Male,Electrical
+673,21,Male,Computer Science
+674,22,Female,Information Technology
+675,21,Male,Electrical
+676,21,Male,Mechanical
+677,21,Male,Computer Science
+678,22,Male,Computer Science
+679,22,Female,Civil
+680,22,Female,Information Technology
+681,21,Female,Information Technology
+682,21,Male,Computer Science
+683,22,Male,Information Technology
+684,21,Female,Electronics And Communication
+685,22,Male,Civil
+686,21,Male,Electronics And Communication
+687,21,Male,Mechanical
+688,21,Male,Electrical
+689,22,Male,Mechanical
+690,21,Male,Civil
+691,22,Male,Information Technology
+692,21,Male,Computer Science
+693,22,Male,Computer Science
+694,21,Male,Information Technology
+695,22,Male,Information Technology
+696,22,Female,Civil
+697,21,Male,Computer Science
+698,21,Male,Computer Science
+699,21,Male,Mechanical
+700,21,Male,Electrical
+701,25,Male,Computer Science
+702,26,Male,Electronics And Communication
+703,24,Female,Electrical
+704,25,Male,Computer Science
+705,24,Female,Electronics And Communication
+706,25,Male,Computer Science
+707,23,Male,Electronics And Communication
+708,24,Male,Electrical
+709,25,Male,Civil
+710,25,Male,Computer Science
+711,26,Female,Information Technology
+712,26,Male,Information Technology
+713,25,Male,Electrical
+714,26,Male,Information Technology
+715,24,Male,Information Technology
+716,25,Male,Computer Science
+717,23,Male,Computer Science
+718,23,Male,Civil
+719,24,Male,Electronics And Communication
+720,25,Male,Computer Science
+721,24,Male,Computer Science
+722,24,Male,Mechanical
+723,23,Male,Mechanical
+724,26,Male,Information Technology
+725,23,Female,Civil
+726,26,Male,Computer Science
+727,26,Male,Electrical
+728,26,Male,Electrical
+729,26,Male,Civil
+730,24,Male,Mechanical
+731,24,Male,Computer Science
+732,23,Male,Electrical
+733,26,Female,Mechanical
+734,23,Male,Information Technology
+735,24,Male,Mechanical
+736,26,Male,Civil
+737,25,Male,Electrical
+738,23,Male,Mechanical
+739,24,Female,Computer Science
+740,23,Male,Information Technology
+741,23,Male,Mechanical
+742,26,Male,Computer Science
+743,24,Male,Information Technology
+744,26,Male,Electrical
+745,23,Male,Computer Science
+746,23,Male,Civil
+747,26,Male,Information Technology
+748,26,Male,Civil
+749,24,Male,Computer Science
+750,23,Male,Information Technology
+751,26,Female,Information Technology
+752,23,Male,Electronics And Communication
+753,24,Male,Civil
+754,24,Male,Computer Science
+755,25,Male,Information Technology
+756,25,Male,Computer Science
+757,26,Male,Civil
+758,24,Male,Mechanical
+759,26,Female,Electrical
+760,25,Male,Information Technology
+761,22,Male,Computer Science
+762,21,Male,Information Technology
+763,22,Male,Electrical
+764,22,Male,Information Technology
+765,22,Female,Computer Science
+766,22,Male,Electronics And Communication
+767,21,Female,Computer Science
+768,22,Male,Computer Science
+769,21,Female,Information Technology
+770,21,Male,Electrical
+771,22,Male,Mechanical
+772,22,Female,Computer Science
+773,22,Male,Computer Science
+774,22,Male,Computer Science
+775,21,Male,Information Technology
+776,21,Female,Electronics And Communication
+777,21,Male,Electrical
+778,22,Male,Computer Science
+779,22,Male,Electrical
+780,21,Male,Electrical
+781,21,Female,Mechanical
+782,22,Male,Electrical
+783,21,Female,Information Technology
+784,22,Male,Mechanical
+785,21,Male,Computer Science
+786,22,Male,Civil
+787,21,Male,Information Technology
+788,21,Female,Electronics And Communication
+789,22,Female,Information Technology
+790,22,Male,Mechanical
+791,22,Male,Civil
+792,22,Male,Civil
+793,22,Male,Computer Science
+794,22,Male,Electronics And Communication
+795,22,Male,Computer Science
+796,22,Female,Electrical
+797,22,Male,Information Technology
+798,22,Female,Computer Science
+799,22,Male,Electrical
+800,21,Male,Electronics And Communication
+801,22,Female,Information Technology
+802,21,Male,Computer Science
+803,22,Male,Civil
+804,21,Female,Information Technology
+805,22,Male,Computer Science
+806,21,Male,Mechanical
+807,22,Male,Civil
+808,22,Male,Computer Science
+809,22,Male,Computer Science
+810,21,Male,Civil
+811,22,Male,Computer Science
+812,21,Male,Civil
+813,21,Male,Electronics And Communication
+814,22,Female,Mechanical
+815,22,Male,Information Technology
+816,21,Male,Civil
+817,22,Male,Electronics And Communication
+818,21,Male,Mechanical
+819,21,Female,Electrical
+820,22,Male,Computer Science
+821,22,Female,Information Technology
+822,21,Male,Electronics And Communication
+823,21,Male,Computer Science
+824,22,Male,Civil
+825,21,Male,Electronics And Communication
+826,21,Male,Civil
+827,21,Male,Mechanical
+828,21,Female,Information Technology
+829,21,Male,Electronics And Communication
+830,21,Female,Information Technology
+831,21,Male,Electronics And Communication
+832,21,Male,Information Technology
+833,22,Male,Electronics And Communication
+834,21,Male,Mechanical
+835,21,Male,Mechanical
+836,21,Female,Mechanical
+837,22,Male,Electrical
+838,21,Male,Information Technology
+839,22,Female,Information Technology
+840,22,Male,Computer Science
+841,21,Male,Information Technology
+842,22,Male,Computer Science
+843,22,Male,Mechanical
+844,22,Male,Electrical
+845,22,Male,Electronics And Communication
+846,21,Male,Computer Science
+847,22,Male,Electrical
+848,21,Male,Electronics And Communication
+849,22,Male,Information Technology
+850,22,Male,Electronics And Communication
+851,22,Male,Mechanical
+852,22,Female,Information Technology
+853,21,Male,Electrical
+854,22,Male,Electronics And Communication
+855,22,Male,Computer Science
+856,21,Male,Computer Science
+857,21,Male,Computer Science
+858,22,Male,Information Technology
+859,21,Male,Information Technology
+860,22,Male,Civil
+861,22,Male,Mechanical
+862,21,Male,Computer Science
+863,21,Male,Mechanical
+864,21,Male,Electrical
+865,21,Female,Computer Science
+866,22,Male,Mechanical
+867,22,Male,Civil
+868,21,Male,Electronics And Communication
+869,22,Female,Information Technology
+870,22,Male,Electronics And Communication
+871,22,Female,Information Technology
+872,22,Male,Mechanical
+873,22,Male,Mechanical
+874,22,Male,Information Technology
+875,22,Male,Information Technology
+876,21,Male,Electrical
+877,22,Male,Computer Science
+878,21,Male,Computer Science
+879,21,Male,Information Technology
+880,21,Male,Electronics And Communication
+881,22,Male,Information Technology
+882,22,Female,Information Technology
+883,22,Male,Computer Science
+884,22,Male,Information Technology
+885,21,Male,Computer Science
+886,21,Male,Electrical
+887,22,Male,Information Technology
+888,22,Male,Mechanical
+889,21,Male,Information Technology
+890,22,Male,Electrical
+891,22,Male,Electronics And Communication
+892,21,Male,Information Technology
+893,21,Female,Computer Science
+894,22,Male,Information Technology
+895,22,Male,Information Technology
+896,22,Male,Civil
+897,22,Male,Information Technology
+898,21,Male,Electrical
+899,21,Female,Information Technology
+900,22,Male,Information Technology
+901,22,Male,Mechanical
+902,21,Female,Information Technology
+903,22,Male,Mechanical
+904,21,Male,Information Technology
+905,21,Male,Mechanical
+906,22,Male,Electrical
+907,21,Male,Information Technology
+908,21,Male,Computer Science
+909,22,Male,Information Technology
+910,21,Male,Mechanical
+911,21,Male,Information Technology
+912,21,Male,Electrical
+913,21,Male,Electronics And Communication
+914,21,Male,Civil
+915,22,Female,Civil
+916,22,Male,Information Technology
+917,22,Female,Information Technology
+918,22,Male,Civil
+919,21,Male,Computer Science
+920,22,Male,Information Technology
+921,21,Male,Civil
+922,21,Male,Civil
+923,21,Male,Computer Science
+924,21,Male,Civil
+925,21,Male,Civil
+926,21,Male,Information Technology
+927,21,Female,Mechanical
+928,22,Male,Information Technology
+929,21,Female,Civil
+930,22,Male,Information Technology
+931,22,Male,Electronics And Communication
+932,21,Male,Computer Science
+933,22,Male,Information Technology
+934,22,Male,Computer Science
+935,22,Male,Information Technology
+936,22,Male,Computer Science
+937,22,Male,Mechanical
+938,22,Female,Computer Science
+939,22,Male,Mechanical
+940,22,Male,Civil
+941,22,Male,Information Technology
+942,22,Male,Mechanical
+943,22,Male,Computer Science
+944,22,Male,Electronics And Communication
+945,22,Male,Computer Science
+946,22,Male,Computer Science
+947,22,Male,Computer Science
+948,21,Male,Computer Science
+949,21,Male,Information Technology
+950,22,Male,Computer Science
+951,22,Female,Information Technology
+952,22,Male,Information Technology
+953,22,Male,Computer Science
+954,21,Male,Civil
+955,21,Male,Mechanical
+956,21,Male,Information Technology
+957,21,Male,Information Technology
+958,21,Male,Mechanical
+959,22,Male,Computer Science
+960,21,Male,Computer Science
+961,22,Male,Mechanical
+962,22,Male,Information Technology
+963,21,Male,Information Technology
+964,21,Male,Information Technology
+965,22,Male,Information Technology
+966,22,Male,Electrical
+967,22,Male,Mechanical
+968,22,Female,Electronics And Communication
+969,21,Male,Mechanical
+970,21,Male,Electrical
+971,22,Male,Electronics And Communication
+972,21,Male,Civil
+973,21,Male,Civil
+974,22,Male,Computer Science
+975,21,Male,Mechanical
+976,21,Male,Information Technology
+977,22,Female,Computer Science
+978,21,Female,Computer Science
+979,22,Male,Civil
+980,22,Male,Computer Science
+981,22,Male,Civil
+982,22,Male,Mechanical
+983,21,Male,Electronics And Communication
+984,22,Male,Information Technology
+985,22,Male,Computer Science
+986,22,Male,Information Technology
+987,21,Male,Electronics And Communication
+988,22,Female,Computer Science
+989,22,Female,Computer Science
+990,22,Male,Electrical
+991,22,Male,Mechanical
+992,22,Male,Computer Science
+993,22,Male,Mechanical
+994,22,Male,Computer Science
+995,21,Male,Information Technology
+996,21,Male,Information Technology
+997,22,Female,Information Technology
+998,21,Male,Information Technology
+999,21,Male,Civil
+1000,21,Male,Information Technology
+1001,22,Male,Information Technology
+1002,22,Male,Information Technology
+1003,21,Female,Computer Science
+1004,22,Male,Computer Science
+1005,22,Male,Electrical
+1006,21,Male,Civil
+1007,21,Male,Information Technology
+1008,22,Male,Information Technology
+1009,21,Male,Electronics And Communication
+1010,21,Male,Mechanical
+1011,22,Male,Information Technology
+1012,22,Male,Information Technology
+1013,21,Male,Computer Science
+1014,22,Male,Information Technology
+1015,22,Male,Information Technology
+1016,21,Male,Information Technology
+1017,21,Male,Electrical
+1018,22,Male,Civil
+1019,22,Male,Information Technology
+1020,22,Male,Information Technology
+1021,21,Female,Civil
+1022,22,Male,Electrical
+1023,22,Male,Civil
+1024,21,Male,Information Technology
+1025,21,Male,Civil
+1026,22,Female,Computer Science
+1027,21,Female,Electronics And Communication
+1028,22,Female,Information Technology
+1029,21,Male,Mechanical
+1030,22,Male,Mechanical
+1031,21,Male,Information Technology
+1032,22,Male,Computer Science
+1033,21,Male,Electrical
+1034,21,Female,Computer Science
+1035,22,Male,Civil
+1036,22,Male,Computer Science
+1037,21,Male,Information Technology
+1038,21,Male,Computer Science
+1039,22,Female,Mechanical
+1040,22,Female,Information Technology
+1041,22,Male,Mechanical
+1042,21,Male,Computer Science
+1043,21,Male,Computer Science
+1044,22,Male,Information Technology
+1045,22,Male,Mechanical
+1046,22,Male,Computer Science
+1047,21,Male,Computer Science
+1048,22,Male,Mechanical
+1049,21,Male,Computer Science
+1050,22,Male,Civil
+1051,22,Male,Civil
+1052,21,Male,Electrical
+1053,21,Female,Computer Science
+1054,22,Male,Computer Science
+1055,22,Male,Electrical
+1056,22,Female,Electronics And Communication
+1057,22,Male,Civil
+1058,21,Male,Electronics And Communication
+1059,21,Female,Electrical
+1060,22,Male,Computer Science
+1061,22,Female,Electronics And Communication
+1062,22,Male,Computer Science
+1063,21,Female,Electronics And Communication
+1064,22,Male,Electronics And Communication
+1065,21,Male,Mechanical
+1066,21,Male,Electronics And Communication
+1067,22,Female,Electrical
+1068,21,Male,Civil
+1069,22,Male,Information Technology
+1070,22,Female,Electrical
+1071,22,Male,Electronics And Communication
+1072,22,Male,Computer Science
+1073,21,Male,Computer Science
+1074,22,Male,Electronics And Communication
+1075,21,Male,Information Technology
+1076,21,Male,Information Technology
+1077,21,Female,Computer Science
+1078,21,Male,Computer Science
+1079,22,Male,Information Technology
+1080,21,Male,Civil
+1081,21,Female,Computer Science
+1082,22,Male,Mechanical
+1083,22,Male,Mechanical
+1084,22,Male,Information Technology
+1085,21,Male,Electrical
+1086,21,Male,Mechanical
+1087,22,Male,Electrical
+1088,22,Male,Mechanical
+1089,22,Male,Information Technology
+1090,22,Male,Civil
+1091,21,Male,Information Technology
+1092,21,Female,Computer Science
+1093,22,Male,Electronics And Communication
+1094,22,Male,Electronics And Communication
+1095,22,Male,Mechanical
+1096,22,Male,Computer Science
+1097,22,Male,Electronics And Communication
+1098,22,Male,Electronics And Communication
+1099,21,Female,Electrical
+1100,22,Female,Computer Science
+1101,22,Female,Information Technology
+1102,21,Male,Mechanical
+1103,21,Male,Electronics And Communication
+1104,22,Male,Civil
+1105,21,Male,Information Technology
+1106,21,Male,Civil
+1107,22,Male,Information Technology
+1108,22,Male,Computer Science
+1109,21,Female,Computer Science
+1110,21,Male,Information Technology
+1111,21,Male,Computer Science
+1112,22,Male,Mechanical
+1113,21,Male,Computer Science
+1114,21,Female,Electronics And Communication
+1115,21,Male,Electronics And Communication
+1116,22,Male,Computer Science
+1117,21,Male,Electrical
+1118,21,Male,Electronics And Communication
+1119,22,Male,Information Technology
+1120,21,Male,Mechanical
+1121,21,Male,Electrical
+1122,21,Male,Mechanical
+1123,22,Female,Electrical
+1124,21,Male,Civil
+1125,22,Male,Mechanical
+1126,21,Female,Information Technology
+1127,22,Female,Electronics And Communication
+1128,22,Male,Electronics And Communication
+1129,22,Male,Electronics And Communication
+1130,21,Male,Information Technology
+1131,22,Female,Civil
+1132,21,Female,Civil
+1133,21,Female,Electrical
+1134,22,Male,Computer Science
+1135,22,Female,Information Technology
+1136,22,Male,Civil
+1137,21,Male,Mechanical
+1138,22,Male,Information Technology
+1139,22,Male,Civil
+1140,22,Male,Computer Science
+1141,21,Male,Information Technology
+1142,22,Male,Computer Science
+1143,22,Male,Civil
+1144,21,Female,Computer Science
+1145,21,Male,Civil
+1146,22,Male,Electronics And Communication
+1147,22,Male,Mechanical
+1148,21,Male,Electrical
+1149,22,Male,Electrical
+1150,22,Male,Electrical
+1151,21,Female,Computer Science
+1152,21,Male,Mechanical
+1153,21,Male,Information Technology
+1154,22,Male,Electrical
+1155,21,Female,Information Technology
+1156,21,Male,Electronics And Communication
+1157,21,Female,Computer Science
+1158,22,Male,Information Technology
+1159,21,Male,Mechanical
+1160,21,Male,Mechanical
+1161,22,Male,Information Technology
+1162,21,Male,Information Technology
+1163,22,Male,Civil
+1164,21,Male,Mechanical
+1165,22,Female,Computer Science
+1166,22,Female,Information Technology
+1167,21,Male,Mechanical
+1168,21,Male,Electrical
+1169,22,Male,Mechanical
+1170,22,Male,Information Technology
+1171,22,Male,Mechanical
+1172,21,Male,Electrical
+1173,21,Male,Information Technology
+1174,22,Male,Information Technology
+1175,22,Female,Computer Science
+1176,21,Male,Civil
+1177,22,Female,Information Technology
+1178,21,Male,Information Technology
+1179,22,Male,Civil
+1180,21,Male,Electrical
+1181,22,Male,Computer Science
+1182,22,Male,Electrical
+1183,21,Male,Electronics And Communication
+1184,21,Male,Electrical
+1185,21,Male,Civil
+1186,21,Male,Computer Science
+1187,21,Male,Civil
+1188,21,Female,Information Technology
+1189,21,Male,Civil
+1190,21,Male,Computer Science
+1191,22,Male,Electronics And Communication
+1192,22,Male,Electronics And Communication
+1193,21,Female,Electrical
+1194,21,Male,Information Technology
+1195,22,Male,Information Technology
+1196,22,Female,Electrical
+1197,21,Male,Computer Science
+1198,22,Male,Computer Science
+1199,21,Male,Computer Science
+1200,22,Female,Computer Science
+1201,21,Male,Information Technology
+1202,22,Male,Mechanical
+1203,22,Male,Computer Science
+1204,21,Male,Electronics And Communication
+1205,21,Male,Mechanical
+1206,22,Female,Information Technology
+1207,21,Male,Mechanical
+1208,21,Male,Civil
+1209,21,Male,Civil
+1210,21,Male,Information Technology
+1211,21,Male,Information Technology
+1212,21,Male,Mechanical
+1213,21,Male,Electronics And Communication
+1214,21,Male,Mechanical
+1215,22,Male,Computer Science
+1216,22,Male,Computer Science
+1217,22,Male,Information Technology
+1218,22,Male,Electronics And Communication
+1219,21,Female,Electronics And Communication
+1220,21,Male,Electronics And Communication
+1221,22,Male,Mechanical
+1222,22,Male,Computer Science
+1223,22,Male,Mechanical
+1224,21,Male,Information Technology
+1225,22,Male,Mechanical
+1226,22,Male,Electrical
+1227,21,Male,Computer Science
+1228,22,Male,Computer Science
+1229,22,Male,Mechanical
+1230,21,Male,Information Technology
+1231,21,Male,Mechanical
+1232,21,Male,Electrical
+1233,22,Male,Information Technology
+1234,22,Female,Mechanical
+1235,22,Male,Civil
+1236,21,Female,Electronics And Communication
+1237,22,Female,Information Technology
+1238,22,Male,Mechanical
+1239,22,Male,Mechanical
+1240,21,Male,Computer Science
+1241,21,Male,Information Technology
+1242,21,Male,Electrical
+1243,21,Male,Computer Science
+1244,22,Male,Electrical
+1245,22,Male,Information Technology
+1246,22,Female,Information Technology
+1247,21,Male,Mechanical
+1248,22,Female,Computer Science
+1249,21,Male,Civil
+1250,21,Male,Computer Science
+1251,22,Male,Information Technology
+1252,21,Male,Computer Science
+1253,21,Male,Mechanical
+1254,22,Male,Mechanical
+1255,21,Male,Civil
+1256,21,Male,Electrical
+1257,21,Female,Electrical
+1258,22,Male,Electronics And Communication
+1259,22,Female,Electronics And Communication
+1260,21,Male,Computer Science
+1261,22,Male,Computer Science
+1262,22,Male,Computer Science
+1263,21,Male,Electrical
+1264,21,Female,Electrical
+1265,21,Male,Electronics And Communication
+1266,22,Female,Mechanical
+1267,22,Female,Computer Science
+1268,21,Female,Mechanical
+1269,21,Male,Electronics And Communication
+1270,21,Female,Electronics And Communication
+1271,21,Male,Electronics And Communication
+1272,22,Male,Computer Science
+1273,22,Male,Information Technology
+1274,21,Male,Mechanical
+1275,22,Male,Mechanical
+1276,21,Male,Information Technology
+1277,22,Male,Mechanical
+1278,22,Male,Information Technology
+1279,22,Male,Information Technology
+1280,21,Female,Information Technology
+1281,21,Male,Mechanical
+1282,21,Male,Electronics And Communication
+1283,22,Male,Computer Science
+1284,22,Male,Civil
+1285,22,Male,Mechanical
+1286,21,Male,Computer Science
+1287,21,Male,Information Technology
+1288,22,Male,Civil
+1289,21,Male,Information Technology
+1290,21,Male,Electronics And Communication
+1291,21,Male,Electrical
+1292,21,Male,Electronics And Communication
+1293,22,Male,Information Technology
+1294,22,Male,Mechanical
+1295,22,Male,Computer Science
+1296,21,Male,Information Technology
+1297,21,Male,Information Technology
+1298,21,Male,Electrical
+1299,22,Male,Computer Science
+1300,21,Male,Electronics And Communication
+1301,25,Male,Information Technology
+1302,26,Male,Electrical
+1303,24,Male,Information Technology
+1304,25,Male,Electronics And Communication
+1305,26,Female,Computer Science
+1306,26,Male,Computer Science
+1307,26,Male,Computer Science
+1308,26,Male,Information Technology
+1309,24,Female,Computer Science
+1310,26,Female,Civil
+1311,26,Male,Computer Science
+1312,26,Male,Computer Science
+1313,26,Male,Information Technology
+1314,26,Male,Mechanical
+1315,26,Male,Electrical
+1316,25,Male,Information Technology
+1317,26,Male,Mechanical
+1318,24,Male,Electronics And Communication
+1319,26,Male,Electronics And Communication
+1320,26,Male,Computer Science
+1321,24,Female,Computer Science
+1322,24,Male,Computer Science
+1323,24,Male,Electrical
+1324,25,Male,Mechanical
+1325,25,Male,Computer Science
+1326,25,Male,Computer Science
+1327,26,Male,Mechanical
+1328,26,Male,Computer Science
+1329,26,Male,Computer Science
+1330,26,Male,Electronics And Communication
+1331,25,Female,Computer Science
+1332,25,Male,Computer Science
+1333,25,Male,Mechanical
+1334,26,Male,Civil
+1335,25,Female,Computer Science
+1336,26,Male,Information Technology
+1337,26,Female,Computer Science
+1338,26,Female,Information Technology
+1339,26,Male,Computer Science
+1340,26,Female,Information Technology
+1341,24,Male,Information Technology
+1342,24,Male,Civil
+1343,25,Male,Electronics And Communication
+1344,26,Male,Mechanical
+1345,26,Male,Mechanical
+1346,25,Male,Computer Science
+1347,26,Male,Computer Science
+1348,25,Male,Computer Science
+1349,25,Male,Computer Science
+1350,24,Male,Computer Science
+1351,26,Male,Electrical
+1352,24,Male,Information Technology
+1353,26,Male,Computer Science
+1354,26,Male,Mechanical
+1355,24,Male,Computer Science
+1356,26,Female,Information Technology
+1357,25,Female,Computer Science
+1358,25,Male,Mechanical
+1359,26,Male,Computer Science
+1360,25,Female,Electronics And Communication
+1361,22,Male,Civil
+1362,21,Female,Electrical
+1363,22,Male,Computer Science
+1364,21,Male,Mechanical
+1365,21,Female,Information Technology
+1366,22,Male,Computer Science
+1367,21,Female,Information Technology
+1368,22,Male,Electrical
+1369,21,Male,Information Technology
+1370,22,Male,Information Technology
+1371,21,Male,Information Technology
+1372,21,Female,Information Technology
+1373,22,Male,Electronics And Communication
+1374,22,Male,Electronics And Communication
+1375,21,Male,Electrical
+1376,22,Male,Information Technology
+1377,21,Male,Computer Science
+1378,21,Male,Information Technology
+1379,21,Male,Information Technology
+1380,22,Male,Information Technology
+1381,21,Male,Electronics And Communication
+1382,22,Female,Electrical
+1383,21,Male,Computer Science
+1384,21,Female,Information Technology
+1385,21,Male,Electronics And Communication
+1386,22,Female,Information Technology
+1387,21,Female,Computer Science
+1388,21,Male,Mechanical
+1389,21,Male,Computer Science
+1390,22,Female,Information Technology
+1391,22,Female,Information Technology
+1392,21,Male,Electronics And Communication
+1393,21,Male,Information Technology
+1394,21,Female,Information Technology
+1395,22,Male,Mechanical
+1396,22,Male,Mechanical
+1397,22,Male,Information Technology
+1398,22,Female,Computer Science
+1399,21,Male,Information Technology
+1400,22,Male,Electrical
+1401,22,Male,Civil
+1402,22,Female,Civil
+1403,22,Male,Information Technology
+1404,21,Male,Electronics And Communication
+1405,22,Male,Mechanical
+1406,22,Male,Civil
+1407,22,Male,Civil
+1408,21,Female,Computer Science
+1409,22,Male,Information Technology
+1410,22,Male,Mechanical
+1411,21,Male,Computer Science
+1412,22,Male,Information Technology
+1413,22,Male,Civil
+1414,22,Female,Mechanical
+1415,21,Male,Civil
+1416,21,Male,Mechanical
+1417,21,Male,Information Technology
+1418,21,Male,Mechanical
+1419,22,Male,Information Technology
+1420,22,Male,Electronics And Communication
+1421,21,Male,Information Technology
+1422,22,Male,Electronics And Communication
+1423,22,Male,Computer Science
+1424,22,Male,Computer Science
+1425,21,Male,Electronics And Communication
+1426,22,Male,Mechanical
+1427,21,Male,Computer Science
+1428,22,Male,Electronics And Communication
+1429,22,Female,Electronics And Communication
+1430,21,Male,Electrical
+1431,21,Female,Electronics And Communication
+1432,21,Male,Electrical
+1433,21,Male,Electrical
+1434,22,Male,Computer Science
+1435,22,Male,Information Technology
+1436,21,Male,Electronics And Communication
+1437,22,Male,Computer Science
+1438,21,Male,Civil
+1439,21,Male,Information Technology
+1440,21,Female,Information Technology
+1441,21,Male,Information Technology
+1442,22,Male,Information Technology
+1443,22,Female,Computer Science
+1444,21,Male,Electrical
+1445,28,Female,Computer Science
+1446,21,Male,Computer Science
+1447,22,Male,Information Technology
+1448,21,Female,Computer Science
+1449,22,Female,Electronics And Communication
+1450,22,Male,Computer Science
+1451,21,Male,Electrical
+1452,21,Male,Information Technology
+1453,22,Male,Computer Science
+1454,22,Female,Electrical
+1455,22,Female,Computer Science
+1456,21,Male,Computer Science
+1457,22,Male,Electronics And Communication
+1458,21,Male,Electronics And Communication
+1459,21,Male,Computer Science
+1460,22,Male,Mechanical
+1461,22,Male,Computer Science
+1462,21,Male,Civil
+1463,22,Male,Computer Science
+1464,22,Male,Information Technology
+1465,22,Male,Mechanical
+1466,21,Male,Information Technology
+1467,22,Male,Information Technology
+1468,21,Male,Information Technology
+1469,21,Male,Electrical
+1470,22,Male,Information Technology
+1471,21,Male,Information Technology
+1472,21,Male,Electrical
+1473,21,Male,Mechanical
+1474,21,Male,Electronics And Communication
+1475,22,Female,Information Technology
+1476,22,Male,Mechanical
+1477,22,Male,Computer Science
+1478,21,Male,Electronics And Communication
+1479,22,Male,Electronics And Communication
+1480,21,Male,Computer Science
+1481,22,Male,Electrical
+1482,21,Male,Computer Science
+1483,22,Male,Electronics And Communication
+1484,22,Male,Information Technology
+1485,22,Female,Civil
+1486,22,Male,Computer Science
+1487,21,Male,Information Technology
+1488,22,Male,Civil
+1489,22,Male,Electronics And Communication
+1490,22,Female,Civil
+1491,21,Male,Information Technology
+1492,21,Male,Computer Science
+1493,22,Male,Information Technology
+1494,21,Male,Computer Science
+1495,21,Male,Electrical
+1496,21,Male,Information Technology
+1497,21,Male,Electrical
+1498,22,Female,Computer Science
+1499,21,Female,Computer Science
+1500,22,Male,Information Technology
+1501,24,Male,Computer Science
+1502,24,Male,Computer Science
+1503,22,Male,Information Technology
+1504,24,Male,Computer Science
+1505,24,Male,Computer Science
+1506,24,Male,Computer Science
+1507,24,Female,Information Technology
+1508,24,Male,Computer Science
+1509,20,Female,Electrical
+1510,21,Male,Computer Science
+1511,23,Male,Electronics And Communication
+1512,22,Female,Computer Science
+1513,23,Male,Computer Science
+1514,23,Male,Electrical
+1515,22,Female,Computer Science
+1516,24,Male,Computer Science
+1517,22,Male,Information Technology
+1518,24,Male,Computer Science
+1519,22,Male,Information Technology
+1520,23,Male,Mechanical
+1521,22,Male,Electrical
+1522,23,Male,Electronics And Communication
+1523,23,Male,Electrical
+1524,20,Male,Electrical
+1525,24,Male,Mechanical
+1526,24,Male,Computer Science
+1527,20,Male,Computer Science
+1528,24,Male,Mechanical
+1529,22,Female,Electrical
+1530,20,Male,Civil
+1531,23,Male,Electronics And Communication
+1532,23,Male,Mechanical
+1533,22,Male,Computer Science
+1534,22,Male,Mechanical
+1535,23,Male,Computer Science
+1536,22,Male,Computer Science
+1537,20,Male,Computer Science
+1538,20,Female,Computer Science
+1539,21,Male,Electrical
+1540,23,Male,Computer Science
+1541,21,Female,Information Technology
+1542,21,Male,Mechanical
+1543,20,Male,Civil
+1544,23,Female,Computer Science
+1545,21,Male,Electronics And Communication
+1546,24,Male,Electronics And Communication
+1547,21,Male,Electronics And Communication
+1548,21,Male,Electrical
+1549,22,Male,Computer Science
+1550,20,Male,Computer Science
+1551,21,Male,Computer Science
+1552,20,Male,Information Technology
+1553,23,Male,Information Technology
+1554,22,Male,Computer Science
+1555,21,Male,Information Technology
+1556,21,Male,Mechanical
+1557,24,Male,Information Technology
+1558,23,Male,Electronics And Communication
+1559,22,Male,Computer Science
+1560,20,Male,Mechanical
+1561,24,Male,Mechanical
+1562,21,Male,Information Technology
+1563,23,Male,Computer Science
+1564,23,Male,Mechanical
+1565,23,Male,Civil
+1566,22,Male,Electronics And Communication
+1567,24,Male,Mechanical
+1568,21,Female,Computer Science
+1569,22,Male,Computer Science
+1570,22,Male,Electronics And Communication
+1571,23,Male,Electrical
+1572,20,Male,Computer Science
+1573,22,Male,Computer Science
+1574,20,Male,Electronics And Communication
+1575,23,Male,Computer Science
+1576,21,Male,Information Technology
+1577,24,Male,Civil
+1578,21,Male,Information Technology
+1579,21,Male,Electrical
+1580,20,Female,Information Technology
+1581,23,Male,Computer Science
+1582,20,Male,Civil
+1583,21,Male,Mechanical
+1584,23,Female,Information Technology
+1585,24,Female,Electronics And Communication
+1586,22,Male,Civil
+1587,24,Male,Computer Science
+1588,23,Female,Computer Science
+1589,23,Male,Information Technology
+1590,23,Male,Information Technology
+1591,22,Male,Civil
+1592,24,Male,Information Technology
+1593,22,Male,Civil
+1594,24,Male,Computer Science
+1595,20,Male,Computer Science
+1596,20,Male,Computer Science
+1597,24,Male,Mechanical
+1598,24,Male,Civil
+1599,21,Male,Information Technology
+1600,23,Male,Electrical
+1601,21,Female,Computer Science
+1602,23,Female,Computer Science
+1603,20,Male,Civil
+1604,24,Female,Information Technology
+1605,24,Female,Mechanical
+1606,20,Male,Civil
+1607,23,Male,Electronics And Communication
+1608,24,Male,Mechanical
+1609,20,Male,Mechanical
+1610,23,Male,Information Technology
+1611,22,Female,Information Technology
+1612,24,Male,Electronics And Communication
+1613,23,Male,Information Technology
+1614,21,Male,Information Technology
+1615,23,Male,Computer Science
+1616,21,Female,Electronics And Communication
+1617,24,Male,Information Technology
+1618,24,Female,Electronics And Communication
+1619,22,Male,Information Technology
+1620,21,Female,Electronics And Communication
+1621,23,Male,Electronics And Communication
+1622,22,Male,Information Technology
+1623,24,Male,Civil
+1624,20,Male,Mechanical
+1625,22,Male,Computer Science
+1626,21,Male,Civil
+1627,20,Male,Information Technology
+1628,21,Male,Civil
+1629,22,Male,Computer Science
+1630,24,Male,Computer Science
+1631,21,Male,Civil
+1632,23,Male,Information Technology
+1633,21,Male,Electrical
+1634,20,Male,Mechanical
+1635,24,Male,Information Technology
+1636,20,Female,Computer Science
+1637,23,Female,Electronics And Communication
+1638,22,Male,Civil
+1639,22,Male,Computer Science
+1640,23,Male,Mechanical
+1641,23,Male,Information Technology
+1642,23,Male,Electrical
+1643,20,Male,Civil
+1644,24,Male,Mechanical
+1645,20,Female,Electronics And Communication
+1646,22,Male,Electronics And Communication
+1647,20,Male,Civil
+1648,23,Male,Electrical
+1649,21,Male,Civil
+1650,24,Male,Mechanical
+1651,21,Male,Mechanical
+1652,22,Male,Information Technology
+1653,24,Male,Information Technology
+1654,20,Male,Electrical
+1655,24,Male,Mechanical
+1656,22,Male,Mechanical
+1657,23,Male,Information Technology
+1658,21,Female,Information Technology
+1659,22,Male,Electronics And Communication
+1660,21,Male,Computer Science
+1661,23,Female,Computer Science
+1662,21,Male,Mechanical
+1663,21,Male,Electronics And Communication
+1664,20,Male,Information Technology
+1665,21,Male,Information Technology
+1666,22,Male,Computer Science
+1667,24,Male,Computer Science
+1668,20,Male,Electronics And Communication
+1669,21,Male,Information Technology
+1670,21,Male,Computer Science
+1671,21,Male,Electronics And Communication
+1672,21,Female,Computer Science
+1673,21,Female,Electronics And Communication
+1674,23,Female,Electronics And Communication
+1675,21,Male,Civil
+1676,24,Female,Electronics And Communication
+1677,23,Female,Mechanical
+1678,23,Male,Electrical
+1679,23,Male,Computer Science
+1680,22,Male,Information Technology
+1681,21,Male,Mechanical
+1682,24,Male,Information Technology
+1683,24,Male,Electronics And Communication
+1684,22,Male,Electronics And Communication
+1685,20,Male,Mechanical
+1686,20,Male,Computer Science
+1687,21,Male,Electrical
+1688,22,Male,Information Technology
+1689,24,Female,Electronics And Communication
+1690,21,Male,Information Technology
+1691,24,Female,Computer Science
+1692,22,Male,Information Technology
+1693,24,Male,Information Technology
+1694,22,Male,Information Technology
+1695,21,Male,Civil
+1696,20,Male,Mechanical
+1697,22,Male,Computer Science
+1698,21,Male,Computer Science
+1699,22,Male,Electronics And Communication
+1700,23,Male,Electronics And Communication
+1701,23,Female,Information Technology
+1702,22,Female,Computer Science
+1703,20,Female,Computer Science
+1704,20,Male,Mechanical
+1705,24,Female,Computer Science
+1706,24,Male,Electronics And Communication
+1707,22,Male,Information Technology
+1708,23,Female,Electronics And Communication
+1709,22,Male,Mechanical
+1710,21,Female,Mechanical
+1711,22,Male,Mechanical
+1712,24,Male,Information Technology
+1713,23,Male,Mechanical
+1714,23,Female,Civil
+1715,22,Male,Electrical
+1716,20,Male,Computer Science
+1717,23,Male,Computer Science
+1718,23,Male,Civil
+1719,21,Female,Information Technology
+1720,24,Male,Civil
+1721,23,Male,Computer Science
+1722,24,Male,Information Technology
+1723,22,Male,Information Technology
+1724,22,Male,Electrical
+1725,21,Male,Information Technology
+1726,21,Male,Electronics And Communication
+1727,20,Male,Computer Science
+1728,22,Male,Information Technology
+1729,23,Female,Mechanical
+1730,22,Male,Computer Science
+1731,23,Male,Civil
+1732,22,Male,Electrical
+1733,21,Male,Mechanical
+1734,21,Male,Electrical
+1735,20,Male,Mechanical
+1736,24,Male,Information Technology
+1737,23,Male,Mechanical
+1738,21,Male,Civil
+1739,21,Male,Computer Science
+1740,20,Male,Information Technology
+1741,21,Male,Computer Science
+1742,23,Male,Computer Science
+1743,21,Male,Electronics And Communication
+1744,22,Male,Electrical
+1745,20,Male,Civil
+1746,24,Male,Information Technology
+1747,24,Male,Electronics And Communication
+1748,22,Male,Mechanical
+1749,22,Male,Information Technology
+1750,23,Male,Civil
+1751,22,Male,Computer Science
+1752,24,Male,Mechanical
+1753,20,Male,Mechanical
+1754,24,Male,Civil
+1755,21,Male,Mechanical
+1756,23,Male,Computer Science
+1757,23,Female,Computer Science
+1758,23,Male,Computer Science
+1759,21,Male,Computer Science
+1760,22,Male,Civil
+1761,21,Male,Electronics And Communication
+1762,22,Male,Electrical
+1763,22,Male,Information Technology
+1764,23,Male,Civil
+1765,23,Male,Civil
+1766,21,Male,Electrical
+1767,21,Male,Computer Science
+1768,23,Female,Computer Science
+1769,20,Male,Computer Science
+1770,21,Male,Electronics And Communication
+1771,21,Female,Computer Science
+1772,23,Male,Computer Science
+1773,20,Male,Computer Science
+1774,21,Male,Information Technology
+1775,20,Male,Information Technology
+1776,22,Female,Information Technology
+1777,21,Female,Information Technology
+1778,24,Male,Information Technology
+1779,20,Male,Computer Science
+1780,23,Male,Electrical
+1781,22,Female,Electronics And Communication
+1782,20,Male,Information Technology
+1783,20,Male,Civil
+1784,24,Male,Computer Science
+1785,22,Male,Civil
+1786,20,Female,Information Technology
+1787,21,Male,Civil
+1788,22,Male,Mechanical
+1789,22,Male,Information Technology
+1790,22,Female,Electronics And Communication
+1791,24,Male,Civil
+1792,22,Male,Information Technology
+1793,23,Male,Information Technology
+1794,23,Male,Electronics And Communication
+1795,22,Female,Information Technology
+1796,23,Male,Mechanical
+1797,24,Male,Information Technology
+1798,24,Male,Information Technology
+1799,22,Male,Computer Science
+1800,24,Male,Computer Science
+1801,21,Female,Computer Science
+1802,24,Male,Computer Science
+1803,21,Male,Mechanical
+1804,24,Male,Civil
+1805,24,Male,Information Technology
+1806,21,Male,Electrical
+1807,24,Male,Electronics And Communication
+1808,20,Male,Computer Science
+1809,20,Female,Mechanical
+1810,24,Male,Computer Science
+1811,21,Male,Computer Science
+1812,22,Male,Computer Science
+1813,23,Male,Electronics And Communication
+1814,21,Female,Information Technology
+1815,23,Male,Computer Science
+1816,23,Male,Civil
+1817,22,Male,Electronics And Communication
+1818,24,Male,Electronics And Communication
+1819,22,Male,Information Technology
+1820,24,Male,Civil
+1821,21,Male,Mechanical
+1822,22,Female,Electronics And Communication
+1823,22,Male,Civil
+1824,22,Male,Information Technology
+1825,24,Female,Electronics And Communication
+1826,24,Male,Computer Science
+1827,23,Female,Mechanical
+1828,22,Male,Electronics And Communication
+1829,20,Female,Mechanical
+1830,21,Male,Civil
+1831,20,Male,Mechanical
+1832,22,Male,Computer Science
+1833,21,Male,Computer Science
+1834,23,Male,Computer Science
+1835,20,Male,Electronics And Communication
+1836,22,Female,Computer Science
+1837,20,Male,Mechanical
+1838,21,Male,Electronics And Communication
+1839,22,Male,Electronics And Communication
+1840,21,Male,Mechanical
+1841,23,Male,Electronics And Communication
+1842,21,Male,Electrical
+1843,21,Male,Information Technology
+1844,20,Male,Mechanical
+1845,21,Male,Computer Science
+1846,24,Male,Mechanical
+1847,21,Male,Electrical
+1848,22,Male,Civil
+1849,24,Female,Information Technology
+1850,22,Male,Computer Science
+1851,21,Male,Information Technology
+1852,23,Male,Computer Science
+1853,24,Male,Information Technology
+1854,22,Male,Mechanical
+1855,21,Male,Computer Science
+1856,21,Female,Computer Science
+1857,23,Male,Computer Science
+1858,20,Male,Information Technology
+1859,23,Male,Computer Science
+1860,23,Male,Electrical
+1861,21,Female,Information Technology
+1862,21,Male,Information Technology
+1863,22,Male,Mechanical
+1864,24,Male,Mechanical
+1865,21,Male,Information Technology
+1866,21,Male,Civil
+1867,21,Female,Electronics And Communication
+1868,20,Male,Computer Science
+1869,24,Male,Computer Science
+1870,20,Male,Information Technology
+1871,20,Female,Electrical
+1872,20,Male,Information Technology
+1873,24,Male,Electrical
+1874,22,Male,Electronics And Communication
+1875,23,Female,Information Technology
+1876,20,Male,Electronics And Communication
+1877,22,Male,Computer Science
+1878,21,Male,Electronics And Communication
+1879,21,Male,Computer Science
+1880,22,Male,Information Technology
+1881,22,Male,Computer Science
+1882,22,Male,Mechanical
+1883,22,Male,Information Technology
+1884,21,Male,Information Technology
+1885,22,Female,Electrical
+1886,23,Female,Electrical
+1887,24,Male,Electronics And Communication
+1888,24,Male,Civil
+1889,21,Female,Electrical
+1890,22,Female,Mechanical
+1891,20,Male,Information Technology
+1892,23,Male,Information Technology
+1893,21,Female,Computer Science
+1894,21,Male,Computer Science
+1895,21,Male,Information Technology
+1896,23,Male,Mechanical
+1897,22,Male,Electronics And Communication
+1898,23,Male,Information Technology
+1899,23,Male,Information Technology
+1900,20,Male,Mechanical
+1901,20,Male,Information Technology
+1902,22,Male,Computer Science
+1903,22,Male,Information Technology
+1904,21,Male,Information Technology
+1905,20,Male,Computer Science
+1906,20,Male,Electrical
+1907,21,Male,Information Technology
+1908,19,Female,Information Technology
+1909,19,Male,Electrical
+1910,21,Male,Computer Science
+1911,19,Male,Computer Science
+1912,20,Female,Computer Science
+1913,19,Male,Electrical
+1914,21,Female,Civil
+1915,21,Female,Computer Science
+1916,22,Male,Information Technology
+1917,20,Male,Electronics And Communication
+1918,22,Male,Electronics And Communication
+1919,21,Male,Computer Science
+1920,22,Male,Computer Science
+1921,21,Male,Computer Science
+1922,20,Male,Information Technology
+1923,22,Female,Mechanical
+1924,22,Female,Computer Science
+1925,21,Male,Electrical
+1926,22,Male,Mechanical
+1927,22,Female,Computer Science
+1928,19,Male,Computer Science
+1929,22,Male,Computer Science
+1930,22,Male,Computer Science
+1931,21,Male,Information Technology
+1932,22,Male,Information Technology
+1933,21,Male,Civil
+1934,20,Female,Information Technology
+1935,19,Male,Information Technology
+1936,21,Male,Electronics And Communication
+1937,21,Male,Information Technology
+1938,19,Male,Computer Science
+1939,22,Female,Computer Science
+1940,21,Male,Computer Science
+1941,19,Male,Electrical
+1942,19,Female,Electronics And Communication
+1943,21,Male,Electrical
+1944,20,Male,Computer Science
+1945,20,Male,Computer Science
+1946,22,Male,Mechanical
+1947,22,Male,Electronics And Communication
+1948,20,Female,Information Technology
+1949,20,Male,Information Technology
+1950,22,Female,Computer Science
+1951,22,Male,Electronics And Communication
+1952,19,Female,Civil
+1953,22,Male,Electronics And Communication
+1954,22,Male,Information Technology
+1955,20,Male,Mechanical
+1956,20,Male,Information Technology
+1957,20,Male,Mechanical
+1958,22,Female,Computer Science
+1959,20,Male,Computer Science
+1960,19,Male,Civil
+1961,21,Male,Civil
+1962,19,Male,Computer Science
+1963,22,Male,Electrical
+1964,19,Male,Electronics And Communication
+1965,19,Male,Civil
+1966,21,Male,Information Technology
+1967,19,Male,Civil
+1968,22,Male,Computer Science
+1969,20,Male,Computer Science
+1970,22,Male,Computer Science
+1971,21,Male,Information Technology
+1972,20,Male,Information Technology
+1973,19,Male,Mechanical
+1974,20,Male,Civil
+1975,21,Male,Computer Science
+1976,22,Male,Information Technology
+1977,20,Female,Computer Science
+1978,19,Male,Information Technology
+1979,21,Male,Computer Science
+1980,20,Male,Electronics And Communication
+1981,21,Male,Computer Science
+1982,20,Male,Mechanical
+1983,21,Male,Electrical
+1984,20,Male,Computer Science
+1985,21,Male,Computer Science
+1986,22,Male,Computer Science
+1987,19,Male,Electronics And Communication
+1988,19,Male,Civil
+1989,21,Male,Information Technology
+1990,21,Male,Mechanical
+1991,19,Male,Computer Science
+1992,22,Male,Computer Science
+1993,20,Male,Computer Science
+1994,22,Male,Information Technology
+1995,21,Male,Mechanical
+1996,19,Male,Electronics And Communication
+1997,20,Male,Information Technology
+1998,22,Male,Information Technology
+1999,20,Male,Computer Science
+2000,19,Male,Computer Science
+2001,21,Male,Electronics And Communication
+2002,19,Male,Electronics And Communication
+2003,21,Male,Electrical
+2004,19,Male,Computer Science
+2005,19,Male,Computer Science
+2006,22,Male,Computer Science
+2007,21,Female,Electronics And Communication
+2008,19,Male,Computer Science
+2009,19,Male,Electronics And Communication
+2010,19,Male,Electrical
+2011,20,Male,Mechanical
+2012,21,Male,Electrical
+2013,20,Male,Computer Science
+2014,22,Male,Computer Science
+2015,19,Male,Computer Science
+2016,20,Male,Electrical
+2017,22,Female,Electrical
+2018,22,Male,Information Technology
+2019,21,Male,Electronics And Communication
+2020,20,Male,Computer Science
+2021,20,Male,Information Technology
+2022,21,Male,Information Technology
+2023,21,Male,Computer Science
+2024,19,Male,Civil
+2025,19,Male,Computer Science
+2026,19,Male,Electrical
+2027,22,Male,Electronics And Communication
+2028,22,Male,Electronics And Communication
+2029,22,Male,Electronics And Communication
+2030,22,Male,Computer Science
+2031,19,Male,Mechanical
+2032,20,Male,Computer Science
+2033,22,Female,Mechanical
+2034,21,Male,Information Technology
+2035,22,Male,Electronics And Communication
+2036,20,Male,Computer Science
+2037,20,Male,Information Technology
+2038,20,Male,Information Technology
+2039,21,Male,Civil
+2040,20,Male,Computer Science
+2041,20,Male,Electrical
+2042,19,Male,Electrical
+2043,19,Male,Civil
+2044,22,Male,Computer Science
+2045,22,Female,Electrical
+2046,19,Male,Computer Science
+2047,22,Male,Mechanical
+2048,20,Male,Computer Science
+2049,21,Male,Electrical
+2050,20,Male,Mechanical
+2051,22,Male,Computer Science
+2052,19,Male,Information Technology
+2053,22,Male,Information Technology
+2054,19,Male,Electronics And Communication
+2055,19,Male,Mechanical
+2056,21,Male,Information Technology
+2057,21,Male,Information Technology
+2058,21,Male,Electronics And Communication
+2059,19,Male,Information Technology
+2060,21,Male,Computer Science
+2061,20,Male,Electrical
+2062,20,Male,Information Technology
+2063,20,Male,Electronics And Communication
+2064,21,Male,Electrical
+2065,22,Male,Electrical
+2066,21,Male,Information Technology
+2067,21,Male,Information Technology
+2068,20,Male,Mechanical
+2069,21,Male,Electrical
+2070,22,Male,Information Technology
+2071,21,Female,Computer Science
+2072,21,Male,Electronics And Communication
+2073,19,Male,Computer Science
+2074,20,Female,Electrical
+2075,19,Male,Electrical
+2076,19,Male,Information Technology
+2077,21,Female,Computer Science
+2078,21,Male,Computer Science
+2079,22,Male,Computer Science
+2080,20,Male,Electrical
+2081,19,Male,Mechanical
+2082,20,Male,Electrical
+2083,19,Male,Civil
+2084,19,Male,Computer Science
+2085,21,Male,Computer Science
+2086,22,Male,Civil
+2087,22,Male,Information Technology
+2088,21,Male,Civil
+2089,21,Female,Computer Science
+2090,20,Male,Electronics And Communication
+2091,19,Male,Electronics And Communication
+2092,20,Male,Mechanical
+2093,20,Female,Information Technology
+2094,21,Male,Computer Science
+2095,20,Male,Information Technology
+2096,22,Male,Computer Science
+2097,21,Male,Electronics And Communication
+2098,19,Male,Computer Science
+2099,20,Male,Information Technology
+2100,19,Male,Information Technology
+2101,21,Male,Information Technology
+2102,19,Male,Information Technology
+2103,19,Male,Computer Science
+2104,19,Male,Civil
+2105,20,Female,Computer Science
+2106,20,Male,Information Technology
+2107,19,Male,Electronics And Communication
+2108,19,Male,Electronics And Communication
+2109,21,Male,Computer Science
+2110,21,Male,Electrical
+2111,19,Male,Mechanical
+2112,19,Male,Electronics And Communication
+2113,19,Male,Electronics And Communication
+2114,20,Male,Computer Science
+2115,22,Male,Information Technology
+2116,22,Male,Computer Science
+2117,21,Male,Computer Science
+2118,21,Female,Information Technology
+2119,22,Male,Electrical
+2120,19,Male,Mechanical
+2121,22,Male,Mechanical
+2122,21,Male,Electronics And Communication
+2123,19,Male,Computer Science
+2124,21,Male,Electrical
+2125,20,Male,Electrical
+2126,21,Female,Civil
+2127,20,Male,Computer Science
+2128,22,Male,Information Technology
+2129,20,Male,Mechanical
+2130,19,Male,Computer Science
+2131,22,Male,Civil
+2132,22,Male,Electronics And Communication
+2133,19,Male,Information Technology
+2134,19,Male,Mechanical
+2135,22,Male,Information Technology
+2136,21,Male,Electronics And Communication
+2137,19,Male,Electrical
+2138,21,Male,Computer Science
+2139,22,Male,Computer Science
+2140,19,Male,Electronics And Communication
+2141,22,Male,Electronics And Communication
+2142,22,Male,Computer Science
+2143,22,Female,Computer Science
+2144,19,Male,Information Technology
+2145,20,Male,Mechanical
+2146,21,Male,Computer Science
+2147,19,Male,Information Technology
+2148,21,Male,Electrical
+2149,20,Male,Civil
+2150,19,Male,Computer Science
+2151,20,Male,Information Technology
+2152,20,Male,Computer Science
+2153,19,Female,Electrical
+2154,20,Male,Information Technology
+2155,22,Male,Civil
+2156,20,Male,Mechanical
+2157,21,Male,Information Technology
+2158,20,Male,Computer Science
+2159,21,Male,Information Technology
+2160,21,Male,Civil
+2161,19,Male,Mechanical
+2162,22,Male,Electrical
+2163,22,Male,Computer Science
+2164,20,Female,Civil
+2165,21,Male,Mechanical
+2166,20,Male,Computer Science
+2167,21,Male,Computer Science
+2168,21,Female,Electronics And Communication
+2169,21,Male,Information Technology
+2170,22,Male,Information Technology
+2171,19,Male,Information Technology
+2172,19,Male,Mechanical
+2173,21,Male,Electrical
+2174,20,Female,Computer Science
+2175,21,Male,Computer Science
+2176,22,Male,Information Technology
+2177,21,Male,Electronics And Communication
+2178,21,Male,Information Technology
+2179,22,Male,Mechanical
+2180,21,Male,Computer Science
+2181,20,Male,Information Technology
+2182,22,Male,Mechanical
+2183,19,Male,Electronics And Communication
+2184,20,Male,Mechanical
+2185,20,Male,Civil
+2186,21,Male,Mechanical
+2187,22,Male,Electronics And Communication
+2188,22,Female,Computer Science
+2189,20,Male,Computer Science
+2190,19,Female,Information Technology
+2191,19,Male,Information Technology
+2192,21,Male,Computer Science
+2193,21,Female,Electrical
+2194,20,Male,Computer Science
+2195,21,Male,Civil
+2196,20,Male,Electronics And Communication
+2197,19,Male,Information Technology
+2198,21,Male,Mechanical
+2199,19,Male,Electrical
+2200,19,Male,Information Technology
+2201,21,Male,Civil
+2202,21,Female,Information Technology
+2203,19,Male,Mechanical
+2204,21,Male,Information Technology
+2205,20,Male,Electrical
+2206,19,Male,Computer Science
+2207,20,Female,Computer Science
+2208,19,Female,Computer Science
+2209,19,Male,Electrical
+2210,19,Male,Electronics And Communication
+2211,19,Male,Electrical
+2212,20,Male,Computer Science
+2213,21,Female,Computer Science
+2214,19,Male,Mechanical
+2215,19,Male,Computer Science
+2216,20,Male,Computer Science
+2217,20,Male,Electrical
+2218,22,Female,Computer Science
+2219,21,Male,Electrical
+2220,20,Male,Computer Science
+2221,19,Male,Information Technology
+2222,22,Male,Electronics And Communication
+2223,22,Male,Information Technology
+2224,20,Male,Mechanical
+2225,20,Male,Mechanical
+2226,21,Male,Computer Science
+2227,22,Male,Civil
+2228,22,Male,Computer Science
+2229,19,Male,Civil
+2230,22,Male,Electrical
+2231,21,Male,Electronics And Communication
+2232,20,Male,Electrical
+2233,20,Male,Electronics And Communication
+2234,22,Male,Computer Science
+2235,19,Male,Computer Science
+2236,19,Male,Mechanical
+2237,20,Male,Information Technology
+2238,19,Female,Information Technology
+2239,21,Male,Electrical
+2240,21,Female,Mechanical
+2241,22,Male,Mechanical
+2242,21,Male,Computer Science
+2243,19,Female,Electronics And Communication
+2244,19,Male,Electronics And Communication
+2245,21,Male,Electronics And Communication
+2246,21,Male,Civil
+2247,19,Male,Mechanical
+2248,20,Male,Electronics And Communication
+2249,19,Male,Mechanical
+2250,19,Male,Civil
+2251,19,Male,Mechanical
+2252,19,Male,Information Technology
+2253,19,Male,Electrical
+2254,20,Female,Computer Science
+2255,22,Female,Civil
+2256,19,Male,Civil
+2257,20,Male,Computer Science
+2258,22,Male,Information Technology
+2259,19,Male,Computer Science
+2260,19,Female,Electrical
+2261,22,Male,Computer Science
+2262,21,Male,Civil
+2263,20,Male,Civil
+2264,21,Male,Electronics And Communication
+2265,20,Female,Computer Science
+2266,21,Male,Electrical
+2267,22,Male,Computer Science
+2268,22,Female,Information Technology
+2269,20,Male,Computer Science
+2270,20,Male,Computer Science
+2271,19,Male,Mechanical
+2272,22,Male,Information Technology
+2273,22,Male,Mechanical
+2274,22,Female,Electronics And Communication
+2275,20,Male,Electrical
+2276,21,Male,Information Technology
+2277,21,Male,Computer Science
+2278,21,Male,Information Technology
+2279,21,Male,Information Technology
+2280,20,Female,Civil
+2281,19,Male,Information Technology
+2282,20,Female,Information Technology
+2283,22,Male,Mechanical
+2284,22,Female,Electrical
+2285,21,Male,Information Technology
+2286,19,Female,Electrical
+2287,19,Female,Electronics And Communication
+2288,19,Male,Information Technology
+2289,20,Female,Computer Science
+2290,20,Male,Information Technology
+2291,22,Female,Electronics And Communication
+2292,20,Male,Civil
+2293,20,Male,Electronics And Communication
+2294,21,Female,Information Technology
+2295,21,Male,Information Technology
+2296,20,Female,Electronics And Communication
+2297,19,Male,Electrical
+2298,21,Male,Information Technology
+2299,21,Male,Computer Science
+2300,20,Male,Civil
+2301,22,Male,Civil
+2302,20,Male,Information Technology
+2303,19,Male,Electrical
+2304,22,Male,Civil
+2305,21,Male,Civil
+2306,22,Male,Information Technology
+2307,19,Male,Electrical
+2308,21,Male,Information Technology
+2309,21,Male,Electronics And Communication
+2310,22,Female,Computer Science
+2311,22,Male,Computer Science
+2312,19,Male,Electrical
+2313,20,Male,Computer Science
+2314,20,Male,Electronics And Communication
+2315,19,Male,Civil
+2316,22,Male,Computer Science
+2317,20,Male,Electronics And Communication
+2318,22,Male,Mechanical
+2319,21,Male,Information Technology
+2320,21,Female,Electronics And Communication
+2321,20,Male,Electronics And Communication
+2322,20,Female,Electronics And Communication
+2323,22,Female,Computer Science
+2324,22,Female,Mechanical
+2325,19,Male,Electronics And Communication
+2326,22,Female,Electronics And Communication
+2327,19,Male,Electrical
+2328,20,Male,Computer Science
+2329,19,Female,Computer Science
+2330,21,Male,Mechanical
+2331,22,Male,Computer Science
+2332,19,Male,Mechanical
+2333,20,Male,Electrical
+2334,29,Female,Mechanical
+2335,20,Male,Information Technology
+2336,20,Male,Information Technology
+2337,20,Male,Information Technology
+2338,20,Male,Electronics And Communication
+2339,22,Male,Civil
+2340,19,Male,Computer Science
+2341,20,Male,Electronics And Communication
+2342,19,Male,Information Technology
+2343,20,Male,Electrical
+2344,19,Female,Computer Science
+2345,20,Male,Information Technology
+2346,19,Male,Information Technology
+2347,22,Female,Civil
+2348,22,Male,Civil
+2349,19,Male,Electrical
+2350,21,Male,Electrical
+2351,22,Female,Information Technology
+2352,20,Male,Electronics And Communication
+2353,21,Male,Computer Science
+2354,19,Male,Information Technology
+2355,22,Female,Information Technology
+2356,21,Male,Electronics And Communication
+2357,19,Male,Information Technology
+2358,21,Male,Computer Science
+2359,21,Male,Electronics And Communication
+2360,21,Male,Computer Science
+2361,20,Male,Civil
+2362,21,Female,Information Technology
+2363,20,Male,Computer Science
+2364,19,Female,Electrical
+2365,22,Male,Civil
+2366,19,Male,Computer Science
+2367,20,Male,Computer Science
+2368,20,Female,Mechanical
+2369,22,Female,Computer Science
+2370,22,Male,Information Technology
+2371,19,Male,Computer Science
+2372,20,Female,Electrical
+2373,20,Male,Civil
+2374,19,Male,Mechanical
+2375,22,Male,Computer Science
+2376,19,Male,Mechanical
+2377,21,Male,Electrical
+2378,21,Male,Mechanical
+2379,20,Male,Computer Science
+2380,20,Male,Mechanical
+2381,20,Male,Computer Science
+2382,20,Male,Mechanical
+2383,20,Male,Computer Science
+2384,20,Male,Computer Science
+2385,20,Male,Computer Science
+2386,21,Male,Computer Science
+2387,20,Male,Electronics And Communication
+2388,20,Female,Civil
+2389,19,Male,Electronics And Communication
+2390,19,Female,Electronics And Communication
+2391,19,Male,Electronics And Communication
+2392,21,Female,Information Technology
+2393,22,Male,Electrical
+2394,22,Male,Mechanical
+2395,21,Male,Mechanical
+2396,20,Male,Information Technology
+2397,22,Male,Mechanical
+2398,22,Male,Civil
+2399,22,Female,Electronics And Communication
+2400,19,Male,Mechanical
+2401,22,Male,Electronics And Communication
+2402,19,Male,Civil
+2403,22,Male,Information Technology
+2404,20,Male,Computer Science
+2405,20,Male,Electronics And Communication
+2406,19,Male,Civil
+2407,22,Male,Information Technology
+2408,21,Male,Electrical
+2409,21,Male,Civil
+2410,22,Male,Mechanical
+2411,20,Male,Information Technology
+2412,19,Female,Mechanical
+2413,22,Female,Computer Science
+2414,22,Male,Mechanical
+2415,20,Male,Civil
+2416,20,Male,Computer Science
+2417,21,Male,Computer Science
+2418,20,Male,Computer Science
+2419,19,Male,Computer Science
+2420,21,Male,Electrical
+2421,22,Male,Mechanical
+2422,21,Male,Electrical
+2423,22,Male,Electronics And Communication
+2424,21,Male,Electrical
+2425,22,Male,Electronics And Communication
+2426,20,Male,Mechanical
+2427,21,Male,Computer Science
+2428,20,Male,Civil
+2429,22,Male,Civil
+2430,21,Male,Computer Science
+2431,21,Male,Civil
+2432,19,Male,Computer Science
+2433,22,Male,Civil
+2434,19,Male,Civil
+2435,21,Male,Computer Science
+2436,20,Male,Computer Science
+2437,19,Male,Electrical
+2438,20,Male,Information Technology
+2439,20,Male,Computer Science
+2440,22,Male,Mechanical
+2441,19,Male,Electronics And Communication
+2442,19,Male,Civil
+2443,19,Male,Civil
+2444,20,Male,Mechanical
+2445,19,Male,Electronics And Communication
+2446,22,Male,Information Technology
+2447,28,Male,Computer Science
+2448,22,Male,Computer Science
+2449,22,Male,Information Technology
+2450,19,Male,Electronics And Communication
+2451,19,Male,Computer Science
+2452,21,Male,Computer Science
+2453,22,Male,Mechanical
+2454,20,Male,Electronics And Communication
+2455,19,Male,Mechanical
+2456,22,Male,Civil
+2457,21,Male,Electrical
+2458,20,Male,Mechanical
+2459,19,Male,Mechanical
+2460,21,Male,Information Technology
+2461,19,Male,Mechanical
+2462,19,Male,Computer Science
+2463,22,Male,Civil
+2464,19,Female,Computer Science
+2465,22,Male,Information Technology
+2466,19,Male,Electrical
+2467,21,Female,Mechanical
+2468,21,Male,Electrical
+2469,20,Male,Electrical
+2470,20,Male,Mechanical
+2471,19,Male,Computer Science
+2472,21,Male,Information Technology
+2473,22,Male,Information Technology
+2474,22,Male,Civil
+2475,21,Male,Computer Science
+2476,21,Male,Information Technology
+2477,22,Female,Electronics And Communication
+2478,21,Male,Electrical
+2479,22,Male,Information Technology
+2480,19,Male,Civil
+2481,21,Male,Electronics And Communication
+2482,19,Female,Computer Science
+2483,21,Male,Computer Science
+2484,20,Male,Information Technology
+2485,20,Male,Electrical
+2486,19,Male,Electronics And Communication
+2487,19,Male,Computer Science
+2488,21,Male,Civil
+2489,22,Male,Electrical
+2490,21,Male,Electronics And Communication
+2491,22,Male,Computer Science
+2492,22,Male,Electronics And Communication
+2493,21,Male,Information Technology
+2494,21,Male,Information Technology
+2495,20,Male,Information Technology
+2496,19,Male,Computer Science
+2497,21,Female,Electronics And Communication
+2498,22,Male,Information Technology
+2499,21,Male,Computer Science
+2500,22,Male,Computer Science
+2501,20,Male,Information Technology
+2502,21,Male,Mechanical
+2503,21,Female,Electrical
+2504,20,Male,Electrical
+2505,21,Male,Civil
+2506,21,Male,Mechanical
+2507,21,Male,Electrical
+2508,20,Male,Information Technology
+2509,21,Male,Computer Science
+2510,20,Female,Computer Science
+2511,21,Male,Computer Science
+2512,21,Female,Electrical
+2513,21,Male,Computer Science
+2514,21,Male,Civil
+2515,20,Male,Civil
+2516,20,Female,Information Technology
+2517,21,Male,Electronics And Communication
+2518,20,Male,Information Technology
+2519,20,Male,Computer Science
+2520,21,Male,Civil
+2521,20,Male,Computer Science
+2522,21,Female,Mechanical
+2523,20,Male,Civil
+2524,20,Male,Computer Science
+2525,21,Male,Mechanical
+2526,20,Male,Mechanical
+2527,20,Male,Electronics And Communication
+2528,20,Female,Computer Science
+2529,20,Male,Mechanical
+2530,20,Male,Computer Science
+2531,20,Male,Civil
+2532,20,Male,Computer Science
+2533,20,Male,Electronics And Communication
+2534,21,Female,Information Technology
+2535,20,Male,Electrical
+2536,21,Male,Mechanical
+2537,20,Male,Computer Science
+2538,21,Female,Electronics And Communication
+2539,21,Male,Electronics And Communication
+2540,21,Male,Mechanical
+2541,21,Female,Electronics And Communication
+2542,20,Male,Civil
+2543,21,Male,Electronics And Communication
+2544,20,Male,Civil
+2545,21,Male,Information Technology
+2546,20,Male,Information Technology
+2547,20,Male,Electronics And Communication
+2548,20,Male,Information Technology
+2549,20,Male,Mechanical
+2550,21,Male,Electronics And Communication
+2551,20,Male,Mechanical
+2552,20,Male,Mechanical
+2553,21,Male,Civil
+2554,20,Male,Information Technology
+2555,21,Male,Computer Science
+2556,21,Male,Computer Science
+2557,21,Male,Computer Science
+2558,20,Male,Mechanical
+2559,20,Male,Information Technology
+2560,20,Male,Computer Science
+2561,21,Male,Mechanical
+2562,20,Male,Civil
+2563,20,Female,Electronics And Communication
+2564,21,Male,Electrical
+2565,21,Male,Mechanical
+2566,21,Female,Computer Science
+2567,20,Male,Information Technology
+2568,21,Male,Civil
+2569,20,Male,Mechanical
+2570,21,Female,Electrical
+2571,21,Male,Civil
+2572,21,Male,Mechanical
+2573,21,Male,Electronics And Communication
+2574,20,Male,Computer Science
+2575,21,Female,Information Technology
+2576,20,Female,Information Technology
+2577,20,Male,Mechanical
+2578,20,Male,Information Technology
+2579,21,Male,Computer Science
+2580,21,Female,Mechanical
+2581,21,Male,Computer Science
+2582,20,Male,Information Technology
+2583,20,Male,Civil
+2584,21,Male,Mechanical
+2585,21,Male,Computer Science
+2586,20,Male,Information Technology
+2587,20,Male,Civil
+2588,21,Male,Electronics And Communication
+2589,21,Female,Information Technology
+2590,21,Male,Mechanical
+2591,21,Female,Computer Science
+2592,20,Female,Information Technology
+2593,21,Male,Mechanical
+2594,21,Male,Civil
+2595,21,Male,Information Technology
+2596,20,Male,Information Technology
+2597,21,Male,Mechanical
+2598,21,Male,Electrical
+2599,21,Male,Electrical
+2600,20,Male,Computer Science
+2601,20,Female,Computer Science
+2602,20,Male,Computer Science
+2603,20,Male,Civil
+2604,20,Male,Civil
+2605,21,Female,Computer Science
+2606,20,Male,Electrical
+2607,20,Male,Civil
+2608,20,Male,Information Technology
+2609,21,Male,Computer Science
+2610,21,Male,Information Technology
+2611,20,Male,Electronics And Communication
+2612,20,Male,Computer Science
+2613,20,Male,Electrical
+2614,21,Male,Civil
+2615,21,Male,Mechanical
+2616,21,Male,Electronics And Communication
+2617,21,Female,Computer Science
+2618,21,Male,Computer Science
+2619,21,Male,Computer Science
+2620,21,Male,Civil
+2621,21,Male,Computer Science
+2622,21,Male,Information Technology
+2623,21,Male,Information Technology
+2624,20,Female,Computer Science
+2625,21,Male,Information Technology
+2626,21,Male,Computer Science
+2627,20,Male,Electrical
+2628,21,Male,Electrical
+2629,20,Male,Computer Science
+2630,21,Male,Mechanical
+2631,21,Female,Computer Science
+2632,21,Male,Electronics And Communication
+2633,20,Female,Mechanical
+2634,21,Male,Computer Science
+2635,20,Female,Information Technology
+2636,20,Male,Civil
+2637,21,Female,Electronics And Communication
+2638,21,Female,Information Technology
+2639,21,Male,Mechanical
+2640,21,Male,Electrical
+2641,20,Male,Electrical
+2642,21,Female,Computer Science
+2643,20,Female,Information Technology
+2644,21,Male,Mechanical
+2645,21,Male,Civil
+2646,20,Male,Electronics And Communication
+2647,20,Male,Computer Science
+2648,21,Male,Information Technology
+2649,20,Male,Mechanical
+2650,21,Male,Electronics And Communication
+2651,21,Male,Electronics And Communication
+2652,20,Male,Civil
+2653,20,Male,Electrical
+2654,20,Male,Information Technology
+2655,21,Female,Electronics And Communication
+2656,20,Male,Information Technology
+2657,20,Male,Computer Science
+2658,21,Male,Electrical
+2659,20,Male,Electronics And Communication
+2660,20,Female,Electronics And Communication
+2661,20,Male,Electrical
+2662,21,Male,Civil
+2663,20,Male,Computer Science
+2664,20,Male,Mechanical
+2665,20,Male,Computer Science
+2666,20,Male,Electronics And Communication
+2667,21,Male,Information Technology
+2668,20,Male,Electrical
+2669,21,Male,Electrical
+2670,21,Male,Mechanical
+2671,20,Male,Civil
+2672,21,Female,Computer Science
+2673,20,Female,Electrical
+2674,20,Male,Information Technology
+2675,21,Female,Electronics And Communication
+2676,21,Male,Electrical
+2677,21,Male,Information Technology
+2678,20,Male,Electrical
+2679,21,Male,Electronics And Communication
+2680,20,Male,Electronics And Communication
+2681,21,Male,Computer Science
+2682,20,Male,Civil
+2683,20,Male,Computer Science
+2684,21,Male,Electrical
+2685,21,Male,Electronics And Communication
+2686,20,Male,Information Technology
+2687,21,Female,Computer Science
+2688,20,Male,Electronics And Communication
+2689,21,Male,Information Technology
+2690,21,Male,Computer Science
+2691,20,Male,Civil
+2692,21,Female,Electronics And Communication
+2693,21,Male,Information Technology
+2694,20,Male,Computer Science
+2695,20,Male,Information Technology
+2696,20,Male,Information Technology
+2697,20,Male,Electronics And Communication
+2698,20,Male,Information Technology
+2699,20,Male,Electronics And Communication
+2700,21,Female,Computer Science
+2701,20,Male,Electronics And Communication
+2702,20,Male,Computer Science
+2703,21,Male,Electrical
+2704,20,Male,Electrical
+2705,20,Male,Computer Science
+2706,21,Male,Mechanical
+2707,20,Male,Mechanical
+2708,21,Male,Information Technology
+2709,20,Male,Electrical
+2710,21,Male,Mechanical
+2711,20,Male,Information Technology
+2712,20,Male,Information Technology
+2713,20,Female,Computer Science
+2714,21,Male,Mechanical
+2715,21,Male,Mechanical
+2716,20,Female,Electrical
+2717,21,Male,Computer Science
+2718,21,Female,Information Technology
+2719,21,Female,Information Technology
+2720,20,Male,Civil
+2721,21,Male,Electronics And Communication
+2722,20,Male,Electronics And Communication
+2723,20,Male,Computer Science
+2724,20,Male,Electronics And Communication
+2725,21,Male,Information Technology
+2726,21,Male,Computer Science
+2727,20,Male,Mechanical
+2728,21,Male,Computer Science
+2729,20,Male,Information Technology
+2730,20,Female,Computer Science
+2731,20,Male,Electronics And Communication
+2732,20,Male,Civil
+2733,20,Male,Information Technology
+2734,21,Male,Computer Science
+2735,20,Male,Information Technology
+2736,20,Male,Information Technology
+2737,20,Female,Computer Science
+2738,20,Male,Electrical
+2739,20,Male,Electronics And Communication
+2740,20,Female,Information Technology
+2741,20,Male,Computer Science
+2742,20,Male,Mechanical
+2743,20,Male,Mechanical
+2744,20,Male,Computer Science
+2745,21,Male,Computer Science
+2746,20,Male,Computer Science
+2747,21,Male,Mechanical
+2748,20,Male,Computer Science
+2749,20,Male,Information Technology
+2750,21,Male,Electronics And Communication
+2751,20,Male,Electronics And Communication
+2752,21,Female,Information Technology
+2753,21,Male,Electrical
+2754,21,Female,Computer Science
+2755,20,Female,Information Technology
+2756,20,Male,Electronics And Communication
+2757,20,Female,Electronics And Communication
+2758,20,Male,Information Technology
+2759,21,Male,Civil
+2760,21,Male,Electrical
+2761,20,Male,Electrical
+2762,20,Male,Computer Science
+2763,20,Male,Electrical
+2764,21,Female,Computer Science
+2765,21,Male,Electrical
+2766,21,Male,Mechanical
+2767,21,Male,Electrical
+2768,20,Female,Electrical
+2769,20,Male,Information Technology
+2770,20,Male,Information Technology
+2771,20,Male,Electronics And Communication
+2772,20,Male,Mechanical
+2773,21,Male,Information Technology
+2774,21,Male,Electrical
+2775,20,Male,Computer Science
+2776,20,Female,Information Technology
+2777,21,Male,Electronics And Communication
+2778,21,Female,Electronics And Communication
+2779,20,Female,Computer Science
+2780,21,Male,Computer Science
+2781,20,Male,Computer Science
+2782,20,Male,Electronics And Communication
+2783,20,Female,Electrical
+2784,20,Male,Computer Science
+2785,20,Male,Civil
+2786,21,Female,Computer Science
+2787,21,Male,Electrical
+2788,20,Male,Computer Science
+2789,21,Male,Electrical
+2790,20,Male,Electronics And Communication
+2791,20,Male,Mechanical
+2792,21,Female,Computer Science
+2793,20,Male,Electronics And Communication
+2794,20,Female,Electronics And Communication
+2795,20,Male,Information Technology
+2796,20,Male,Mechanical
+2797,20,Female,Information Technology
+2798,20,Male,Civil
+2799,20,Male,Electrical
+2800,20,Male,Civil
+2801,23,Male,Electronics And Communication
+2802,22,Male,Mechanical
+2803,22,Male,Electronics And Communication
+2804,22,Female,Information Technology
+2805,21,Male,Computer Science
+2806,21,Male,Computer Science
+2807,23,Male,Computer Science
+2808,23,Male,Mechanical
+2809,23,Male,Computer Science
+2810,21,Male,Computer Science
+2811,23,Male,Mechanical
+2812,21,Male,Computer Science
+2813,23,Male,Electrical
+2814,23,Male,Computer Science
+2815,23,Male,Electrical
+2816,21,Male,Information Technology
+2817,23,Male,Civil
+2818,23,Male,Information Technology
+2819,21,Male,Computer Science
+2820,22,Male,Mechanical
+2821,21,Male,Computer Science
+2822,21,Male,Mechanical
+2823,21,Male,Civil
+2824,22,Male,Civil
+2825,21,Male,Civil
+2826,22,Female,Information Technology
+2827,21,Male,Mechanical
+2828,23,Male,Mechanical
+2829,23,Male,Electronics And Communication
+2830,22,Male,Electronics And Communication
+2831,22,Male,Electronics And Communication
+2832,23,Male,Electronics And Communication
+2833,22,Male,Information Technology
+2834,23,Female,Computer Science
+2835,21,Male,Information Technology
+2836,23,Male,Electronics And Communication
+2837,23,Male,Information Technology
+2838,23,Male,Information Technology
+2839,23,Male,Electronics And Communication
+2840,23,Male,Mechanical
+2841,21,Male,Information Technology
+2842,21,Male,Computer Science
+2843,22,Male,Information Technology
+2844,23,Male,Information Technology
+2845,22,Male,Mechanical
+2846,21,Male,Mechanical
+2847,22,Male,Mechanical
+2848,21,Male,Mechanical
+2849,21,Male,Computer Science
+2850,23,Male,Electronics And Communication
+2851,21,Male,Information Technology
+2852,22,Male,Mechanical
+2853,22,Male,Mechanical
+2854,21,Male,Electrical
+2855,23,Female,Mechanical
+2856,21,Female,Information Technology
+2857,21,Male,Electrical
+2858,23,Male,Civil
+2859,23,Male,Computer Science
+2860,22,Male,Information Technology
+2861,22,Male,Computer Science
+2862,21,Female,Information Technology
+2863,23,Male,Information Technology
+2864,22,Male,Computer Science
+2865,22,Male,Mechanical
+2866,22,Male,Information Technology
+2867,22,Male,Civil
+2868,22,Male,Information Technology
+2869,23,Male,Electronics And Communication
+2870,23,Male,Civil
+2871,21,Male,Electronics And Communication
+2872,23,Male,Information Technology
+2873,22,Male,Electronics And Communication
+2874,23,Female,Electronics And Communication
+2875,21,Male,Electrical
+2876,21,Male,Electronics And Communication
+2877,23,Male,Mechanical
+2878,23,Female,Computer Science
+2879,21,Male,Information Technology
+2880,22,Male,Information Technology
+2881,23,Male,Electronics And Communication
+2882,23,Male,Computer Science
+2883,23,Male,Computer Science
+2884,21,Male,Computer Science
+2885,21,Male,Computer Science
+2886,21,Male,Electronics And Communication
+2887,21,Male,Electronics And Communication
+2888,21,Female,Information Technology
+2889,23,Male,Information Technology
+2890,22,Male,Computer Science
+2891,21,Male,Information Technology
+2892,21,Male,Mechanical
+2893,23,Male,Information Technology
+2894,23,Male,Civil
+2895,22,Male,Mechanical
+2896,23,Male,Information Technology
+2897,23,Male,Information Technology
+2898,22,Male,Mechanical
+2899,21,Male,Civil
+2900,21,Male,Computer Science
+2901,22,Male,Computer Science
+2902,21,Male,Electronics And Communication
+2903,23,Female,Computer Science
+2904,23,Male,Electronics And Communication
+2905,22,Male,Electrical
+2906,23,Male,Information Technology
+2907,21,Male,Electronics And Communication
+2908,22,Male,Electronics And Communication
+2909,21,Male,Electronics And Communication
+2910,23,Male,Information Technology
+2911,21,Male,Information Technology
+2912,23,Male,Information Technology
+2913,21,Male,Mechanical
+2914,23,Male,Information Technology
+2915,22,Male,Electrical
+2916,23,Male,Mechanical
+2917,21,Male,Information Technology
+2918,21,Male,Electrical
+2919,21,Female,Computer Science
+2920,21,Male,Civil
+2921,22,Male,Electronics And Communication
+2922,23,Male,Information Technology
+2923,23,Male,Computer Science
+2924,22,Male,Electrical
+2925,21,Male,Mechanical
+2926,23,Male,Computer Science
+2927,21,Male,Information Technology
+2928,22,Female,Computer Science
+2929,22,Female,Computer Science
+2930,23,Female,Computer Science
+2931,21,Male,Computer Science
+2932,21,Male,Mechanical
+2933,21,Male,Computer Science
+2934,23,Male,Computer Science
+2935,23,Male,Electrical
+2936,21,Male,Electronics And Communication
+2937,23,Male,Information Technology
+2938,23,Male,Mechanical
+2939,21,Male,Computer Science
+2940,21,Male,Mechanical
+2941,22,Male,Electronics And Communication
+2942,21,Male,Electrical
+2943,23,Male,Mechanical
+2944,23,Male,Electronics And Communication
+2945,23,Male,Information Technology
+2946,21,Male,Computer Science
+2947,23,Male,Information Technology
+2948,22,Male,Computer Science
+2949,21,Male,Electrical
+2950,22,Male,Civil
+2951,23,Female,Computer Science
+2952,21,Male,Computer Science
+2953,23,Male,Mechanical
+2954,22,Male,Electronics And Communication
+2955,23,Female,Computer Science
+2956,22,Male,Information Technology
+2957,22,Male,Computer Science
+2958,22,Male,Electrical
+2959,23,Male,Computer Science
+2960,23,Male,Information Technology
+2961,23,Male,Mechanical
+2962,23,Male,Information Technology
+2963,23,Male,Mechanical
+2964,22,Male,Information Technology
+2965,22,Male,Computer Science
+2966,23,Male,Civil
